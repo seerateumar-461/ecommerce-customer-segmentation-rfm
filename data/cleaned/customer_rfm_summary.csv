@@ -1,0 +1,1201 @@
+CustomerID,Recency_Days,Frequency_Orders,Monetary_Spend,Country,R_Score,F_Score,M_Score,RFM_Score,Customer_Segment
+CUST-10000,48,17,1125.55,United Kingdom,2,5,4,254,Need Attention
+CUST-10001,14,25,1889.58,Spain,4,5,5,455,Champions
+CUST-10002,50,11,908.93,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10003,33,19,1236.35,United Kingdom,2,5,5,255,Need Attention
+CUST-10004,45,7,570.92,United Kingdom,2,1,2,212,About To Sleep
+CUST-10005,35,16,1860.76,France,2,5,5,255,Need Attention
+CUST-10006,18,9,339.85,United Kingdom,3,1,1,311,Promising
+CUST-10007,64,9,328.71,France,1,1,1,111,Lost / Hibernating
+CUST-10008,19,13,791.66,Germany,3,3,3,333,Loyal Customers
+CUST-10009,92,10,663.94,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10010,29,10,869.17,United Kingdom,3,2,3,323,Promising
+CUST-10011,57,10,738.49,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10012,43,16,807.21,United Kingdom,2,5,3,253,Need Attention
+CUST-10013,11,15,1148.81,United Kingdom,4,4,4,444,Champions
+CUST-10014,7,9,614.99,Germany,5,1,2,512,Recent Customers
+CUST-10015,126,14,1158.12,United Kingdom,1,4,4,144,At Risk
+CUST-10016,21,16,1242.6,France,3,5,5,355,Loyal Customers
+CUST-10017,10,15,984.11,Germany,4,4,4,444,Champions
+CUST-10018,2,13,1306.8,Germany,5,3,5,535,Loyal Customers
+CUST-10019,20,7,521.48,United Kingdom,3,1,2,312,Promising
+CUST-10020,140,9,878.03,United Kingdom,1,1,3,113,Lost / Hibernating
+CUST-10021,73,8,736.2,United States,1,1,3,113,Lost / Hibernating
+CUST-10022,5,12,1046.23,United Kingdom,5,3,4,534,Loyal Customers
+CUST-10023,3,14,904.69,United Kingdom,5,4,3,543,Champions
+CUST-10024,53,13,1656.35,France,1,3,5,135,At Risk
+CUST-10025,12,12,1497.76,United Kingdom,4,3,5,435,Loyal Customers
+CUST-10026,20,14,1058.67,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10027,29,18,1612.79,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10028,21,12,1396.69,United Kingdom,3,3,5,335,Loyal Customers
+CUST-10029,55,15,684.06,Germany,1,4,2,142,At Risk
+CUST-10030,56,6,352.99,France,1,1,1,111,Lost / Hibernating
+CUST-10031,8,16,1278.76,United Kingdom,5,5,5,555,Champions
+CUST-10032,68,8,442.73,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10033,5,9,2478.01,United Kingdom,5,1,5,515,Recent Customers
+CUST-10034,3,12,242.19,United Kingdom,5,3,1,531,Loyal Customers
+CUST-10035,9,10,338.97,France,4,2,1,421,Recent Customers
+CUST-10036,42,12,772.58,United Kingdom,2,3,3,233,Need Attention
+CUST-10037,5,15,1466.65,United Kingdom,5,4,5,545,Champions
+CUST-10038,106,6,573.0,France,1,1,2,112,Lost / Hibernating
+CUST-10039,20,9,901.38,United Kingdom,3,1,3,313,Promising
+CUST-10040,19,5,540.21,United Kingdom,3,1,2,312,Promising
+CUST-10041,76,5,172.48,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10042,8,10,682.69,United Kingdom,5,2,2,522,Recent Customers
+CUST-10043,21,12,677.96,Germany,3,3,2,332,Loyal Customers
+CUST-10044,72,5,730.94,France,1,1,3,113,Lost / Hibernating
+CUST-10045,43,12,1068.4,United Kingdom,2,3,4,234,Need Attention
+CUST-10046,39,15,1294.28,United Kingdom,2,4,5,245,Need Attention
+CUST-10047,10,16,734.82,Germany,4,5,3,453,Champions
+CUST-10048,16,15,1092.92,United Kingdom,4,4,4,444,Champions
+CUST-10049,4,17,736.6,United Kingdom,5,5,3,553,Champions
+CUST-10050,121,8,1352.16,United Kingdom,1,1,5,115,Lost / Hibernating
+CUST-10051,2,15,1299.94,United Kingdom,5,4,5,545,Champions
+CUST-10052,41,15,1085.2,United Kingdom,2,4,4,244,Need Attention
+CUST-10053,50,21,1305.08,United Kingdom,1,5,5,155,At Risk
+CUST-10054,5,11,840.89,United Kingdom,5,2,3,523,Recent Customers
+CUST-10055,11,9,655.89,Australia,4,1,2,412,Recent Customers
+CUST-10056,25,20,1772.58,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10057,10,11,578.13,United Kingdom,4,2,2,422,Recent Customers
+CUST-10058,74,9,919.15,United States,1,1,4,114,Lost / Hibernating
+CUST-10059,165,7,313.7,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10060,48,13,777.14,Germany,2,3,3,233,Need Attention
+CUST-10061,32,14,847.08,United Kingdom,2,4,3,243,Need Attention
+CUST-10062,34,15,1172.06,Germany,2,4,4,244,Need Attention
+CUST-10063,11,9,1083.79,Netherlands,4,1,4,414,Recent Customers
+CUST-10064,9,10,449.44,United Kingdom,4,2,1,421,Recent Customers
+CUST-10065,28,9,462.22,United Kingdom,3,1,1,311,Promising
+CUST-10066,31,15,1344.12,United Kingdom,2,4,5,245,Need Attention
+CUST-10067,72,9,533.7,Germany,1,1,2,112,Lost / Hibernating
+CUST-10068,27,14,1028.16,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10069,27,14,1064.67,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10070,13,13,1007.91,Germany,4,3,4,434,Loyal Customers
+CUST-10071,26,8,484.95,United Kingdom,3,1,1,311,Promising
+CUST-10072,9,13,723.19,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10073,12,5,194.47,United States,4,1,1,411,Recent Customers
+CUST-10074,84,8,518.25,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10075,12,8,675.72,United Kingdom,4,1,2,412,Recent Customers
+CUST-10076,91,12,400.89,United Kingdom,1,3,1,131,At Risk
+CUST-10077,18,10,585.55,United Kingdom,3,2,2,322,Promising
+CUST-10078,15,13,1008.2,United Kingdom,4,3,4,434,Loyal Customers
+CUST-10079,37,13,1581.28,United Kingdom,2,3,5,235,Need Attention
+CUST-10080,5,7,882.28,United Kingdom,5,1,3,513,Recent Customers
+CUST-10081,4,15,1357.4,United Kingdom,5,4,5,545,Champions
+CUST-10082,29,10,763.7,United Kingdom,3,2,3,323,Promising
+CUST-10083,15,21,1505.86,Germany,4,5,5,455,Champions
+CUST-10084,45,11,529.36,United Kingdom,2,2,2,222,About To Sleep
+CUST-10085,4,10,634.97,United Kingdom,5,2,2,522,Recent Customers
+CUST-10086,83,13,1797.53,United Kingdom,1,3,5,135,At Risk
+CUST-10087,31,15,1356.81,United Kingdom,2,4,5,245,Need Attention
+CUST-10088,6,15,762.47,United Kingdom,5,4,3,543,Champions
+CUST-10089,12,11,1011.18,United Kingdom,4,2,4,424,Recent Customers
+CUST-10090,24,7,333.44,United Kingdom,3,1,1,311,Promising
+CUST-10091,24,13,600.2,France,3,3,2,332,Loyal Customers
+CUST-10092,1,6,713.68,United Kingdom,5,1,3,513,Recent Customers
+CUST-10093,56,13,580.17,United Kingdom,1,3,2,132,At Risk
+CUST-10094,27,9,1038.38,Germany,3,1,4,314,Promising
+CUST-10095,10,13,748.13,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10096,9,20,995.95,United Kingdom,4,5,4,454,Champions
+CUST-10097,15,9,354.94,United Kingdom,4,1,1,411,Recent Customers
+CUST-10098,1,13,1249.14,France,5,3,5,535,Loyal Customers
+CUST-10099,79,14,530.49,Germany,1,4,2,142,At Risk
+CUST-10100,27,8,566.21,Germany,3,1,2,312,Promising
+CUST-10101,19,13,1604.1,United Kingdom,3,3,5,335,Loyal Customers
+CUST-10102,9,12,1064.04,France,4,3,4,434,Loyal Customers
+CUST-10103,2,12,590.43,France,5,3,2,532,Loyal Customers
+CUST-10104,16,11,465.92,Spain,4,2,1,421,Recent Customers
+CUST-10105,3,11,838.92,United Kingdom,5,2,3,523,Recent Customers
+CUST-10106,26,15,679.7,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10107,3,13,578.21,Germany,5,3,2,532,Loyal Customers
+CUST-10108,21,17,936.61,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10109,59,11,718.38,Spain,1,2,3,123,Lost / Hibernating
+CUST-10110,83,16,1002.04,United Kingdom,1,5,4,154,At Risk
+CUST-10111,38,8,294.45,United Kingdom,2,1,1,211,About To Sleep
+CUST-10112,34,13,775.7,Spain,2,3,3,233,Need Attention
+CUST-10113,4,13,792.92,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10114,57,9,331.93,United States,1,1,1,111,Lost / Hibernating
+CUST-10115,10,12,509.98,United Kingdom,4,3,1,431,Loyal Customers
+CUST-10116,11,11,445.17,France,4,2,1,421,Recent Customers
+CUST-10117,115,12,769.43,United Kingdom,1,3,3,133,At Risk
+CUST-10118,37,10,481.92,United Kingdom,2,2,1,221,About To Sleep
+CUST-10119,3,14,817.19,Spain,5,4,3,543,Champions
+CUST-10120,90,11,759.9,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10121,1,12,925.15,France,5,3,4,534,Loyal Customers
+CUST-10122,49,15,1819.3,Spain,2,4,5,245,Need Attention
+CUST-10123,16,10,447.24,United Kingdom,4,2,1,421,Recent Customers
+CUST-10124,17,10,830.41,United Kingdom,4,2,3,423,Recent Customers
+CUST-10125,14,11,771.96,United Kingdom,4,2,3,423,Recent Customers
+CUST-10126,16,7,629.19,United Kingdom,4,1,2,412,Recent Customers
+CUST-10127,146,5,181.72,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10128,46,8,489.9,United Kingdom,2,1,1,211,About To Sleep
+CUST-10129,12,11,756.9,United Kingdom,4,2,3,423,Recent Customers
+CUST-10130,6,16,1205.34,United Kingdom,5,5,4,554,Champions
+CUST-10131,4,16,2175.05,United Kingdom,5,5,5,555,Champions
+CUST-10132,6,14,990.19,Germany,5,4,4,544,Champions
+CUST-10133,18,11,630.99,United Kingdom,3,2,2,322,Promising
+CUST-10134,28,11,634.72,United States,3,2,2,322,Promising
+CUST-10135,47,10,1464.12,Netherlands,2,2,5,225,About To Sleep
+CUST-10136,33,7,204.47,United Kingdom,2,1,1,211,About To Sleep
+CUST-10137,18,10,659.41,United States,3,2,2,322,Promising
+CUST-10138,38,10,1130.94,United Kingdom,2,2,4,224,About To Sleep
+CUST-10139,9,11,931.91,United States,4,2,4,424,Recent Customers
+CUST-10140,22,12,1609.2,United Kingdom,3,3,5,335,Loyal Customers
+CUST-10141,20,13,1143.6,United Kingdom,3,3,4,334,Loyal Customers
+CUST-10142,8,13,1440.34,United States,5,3,5,535,Loyal Customers
+CUST-10143,72,12,1071.54,United Kingdom,1,3,4,134,At Risk
+CUST-10144,22,14,1192.89,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10145,14,14,1114.63,United Kingdom,4,4,4,444,Champions
+CUST-10146,11,11,660.37,Netherlands,4,2,2,422,Recent Customers
+CUST-10147,49,9,360.19,United Kingdom,2,1,1,211,About To Sleep
+CUST-10148,24,19,1696.22,Germany,3,5,5,355,Loyal Customers
+CUST-10149,27,5,277.47,United Kingdom,3,1,1,311,Promising
+CUST-10150,23,12,515.12,France,3,3,2,332,Loyal Customers
+CUST-10151,9,12,517.71,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10152,31,11,566.93,France,2,2,2,222,About To Sleep
+CUST-10153,11,18,1827.0,United Kingdom,4,5,5,455,Champions
+CUST-10154,69,15,1397.14,United States,1,4,5,145,At Risk
+CUST-10155,23,16,795.14,United Kingdom,3,5,3,353,Loyal Customers
+CUST-10156,52,10,520.45,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10157,32,10,672.19,United Kingdom,2,2,2,222,About To Sleep
+CUST-10158,13,13,559.1,Australia,4,3,2,432,Loyal Customers
+CUST-10159,10,13,1338.9,Germany,4,3,5,435,Loyal Customers
+CUST-10160,4,16,1432.17,United Kingdom,5,5,5,555,Champions
+CUST-10161,9,21,3739.02,United Kingdom,4,5,5,455,Champions
+CUST-10162,35,10,464.21,Australia,2,2,1,221,About To Sleep
+CUST-10163,30,8,736.91,Netherlands,2,1,3,213,About To Sleep
+CUST-10164,109,12,566.22,Germany,1,3,2,132,At Risk
+CUST-10165,50,9,451.67,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10166,108,12,1085.78,Germany,1,3,4,134,At Risk
+CUST-10167,15,11,795.97,United Kingdom,4,2,3,423,Recent Customers
+CUST-10168,64,6,525.0,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10169,11,13,892.17,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10170,82,15,777.19,Netherlands,1,4,3,143,At Risk
+CUST-10171,41,16,943.66,France,2,5,4,254,Need Attention
+CUST-10172,24,12,615.34,United Kingdom,3,3,2,332,Loyal Customers
+CUST-10173,8,15,1436.27,United States,5,4,5,545,Champions
+CUST-10174,3,15,1175.81,United Kingdom,5,4,4,544,Champions
+CUST-10175,93,13,948.67,United Kingdom,1,3,4,134,At Risk
+CUST-10176,2,16,1087.42,United Kingdom,5,5,4,554,Champions
+CUST-10177,9,16,1014.13,United Kingdom,4,5,4,454,Champions
+CUST-10178,3,9,487.94,United States,5,1,1,511,Recent Customers
+CUST-10179,22,13,809.57,United Kingdom,3,3,3,333,Loyal Customers
+CUST-10180,18,15,916.53,Australia,3,4,3,343,Loyal Customers
+CUST-10181,21,14,676.96,Netherlands,3,4,2,342,Loyal Customers
+CUST-10182,62,20,1491.85,United Kingdom,1,5,5,155,At Risk
+CUST-10183,39,14,1124.08,United Kingdom,2,4,4,244,Need Attention
+CUST-10184,23,12,386.46,United Kingdom,3,3,1,331,Loyal Customers
+CUST-10185,110,4,329.92,France,1,1,1,111,Lost / Hibernating
+CUST-10186,45,14,851.42,United Kingdom,2,4,3,243,Need Attention
+CUST-10187,39,14,687.44,United Kingdom,2,4,2,242,Need Attention
+CUST-10188,24,10,863.64,United Kingdom,3,2,3,323,Promising
+CUST-10189,28,9,875.43,United Kingdom,3,1,3,313,Promising
+CUST-10190,29,10,574.22,Germany,3,2,2,322,Promising
+CUST-10191,63,12,883.93,United Kingdom,1,3,3,133,At Risk
+CUST-10192,22,13,918.11,United States,3,3,4,334,Loyal Customers
+CUST-10193,57,9,927.46,France,1,1,4,114,Lost / Hibernating
+CUST-10194,29,15,1136.2,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10195,41,8,802.73,Germany,2,1,3,213,About To Sleep
+CUST-10196,43,9,955.97,United Kingdom,2,1,4,214,About To Sleep
+CUST-10197,1,15,2200.81,United Kingdom,5,4,5,545,Champions
+CUST-10198,16,13,915.91,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10199,17,12,1457.37,United Kingdom,4,3,5,435,Loyal Customers
+CUST-10200,23,10,431.85,United Kingdom,3,2,1,321,Promising
+CUST-10201,1,12,593.19,United Kingdom,5,3,2,532,Loyal Customers
+CUST-10202,11,12,672.88,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10203,43,14,944.12,Netherlands,2,4,4,244,Need Attention
+CUST-10204,10,15,1032.79,United States,4,4,4,444,Champions
+CUST-10205,59,11,819.39,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10206,10,17,586.65,United Kingdom,4,5,2,452,Champions
+CUST-10207,5,14,568.38,United Kingdom,5,4,2,542,Champions
+CUST-10208,22,14,2720.1,Germany,3,4,5,345,Loyal Customers
+CUST-10209,1,11,1018.19,United Kingdom,5,2,4,524,Recent Customers
+CUST-10210,13,11,663.44,United Kingdom,4,2,2,422,Recent Customers
+CUST-10211,2,13,1143.36,United Kingdom,5,3,4,534,Loyal Customers
+CUST-10212,21,11,781.14,United Kingdom,3,2,3,323,Promising
+CUST-10213,19,20,1008.14,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10214,21,14,1108.82,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10215,9,13,667.93,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10216,13,14,1640.65,Germany,4,4,5,445,Champions
+CUST-10217,21,13,633.19,United Kingdom,3,3,2,332,Loyal Customers
+CUST-10218,10,17,1054.66,United Kingdom,4,5,4,454,Champions
+CUST-10219,42,12,1160.8,United Kingdom,2,3,4,234,Need Attention
+CUST-10220,28,13,1735.38,United Kingdom,3,3,5,335,Loyal Customers
+CUST-10221,6,11,1273.39,United Kingdom,5,2,5,525,Recent Customers
+CUST-10222,7,14,627.17,Spain,5,4,2,542,Champions
+CUST-10223,3,15,998.7,United Kingdom,5,4,4,544,Champions
+CUST-10224,37,19,1354.04,United Kingdom,2,5,5,255,Need Attention
+CUST-10225,25,13,1027.1,United Kingdom,3,3,4,334,Loyal Customers
+CUST-10226,46,12,426.64,United Kingdom,2,3,1,231,Need Attention
+CUST-10227,54,21,2243.37,Germany,1,5,5,155,At Risk
+CUST-10228,69,9,479.93,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10229,10,14,629.68,United Kingdom,4,4,2,442,Champions
+CUST-10230,40,10,742.81,Australia,2,2,3,223,About To Sleep
+CUST-10231,39,10,636.22,United Kingdom,2,2,2,222,About To Sleep
+CUST-10232,4,11,681.12,France,5,2,2,522,Recent Customers
+CUST-10233,24,15,1586.78,France,3,4,5,345,Loyal Customers
+CUST-10234,8,13,533.42,United Kingdom,5,3,2,532,Loyal Customers
+CUST-10235,44,13,986.17,Netherlands,2,3,4,234,Need Attention
+CUST-10236,18,15,707.39,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10237,7,11,1999.72,Australia,5,2,5,525,Recent Customers
+CUST-10238,9,10,653.4,France,4,2,2,422,Recent Customers
+CUST-10239,17,11,346.71,United Kingdom,4,2,1,421,Recent Customers
+CUST-10240,31,12,440.73,Germany,2,3,1,231,Need Attention
+CUST-10241,7,9,471.47,United Kingdom,5,1,1,511,Recent Customers
+CUST-10242,2,11,914.93,United Kingdom,5,2,3,523,Recent Customers
+CUST-10243,11,9,376.45,United Kingdom,4,1,1,411,Recent Customers
+CUST-10244,62,10,979.24,Spain,1,2,4,124,Lost / Hibernating
+CUST-10245,6,15,1327.3,United Kingdom,5,4,5,545,Champions
+CUST-10246,20,16,1928.21,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10247,17,14,1670.8,United States,4,4,5,445,Champions
+CUST-10248,18,9,530.35,Germany,3,1,2,312,Promising
+CUST-10249,32,9,602.41,United Kingdom,2,1,2,212,About To Sleep
+CUST-10250,45,10,402.24,United Kingdom,2,2,1,221,About To Sleep
+CUST-10251,4,10,776.43,United Kingdom,5,2,3,523,Recent Customers
+CUST-10252,16,7,457.45,United Kingdom,4,1,1,411,Recent Customers
+CUST-10253,65,12,560.96,United Kingdom,1,3,2,132,At Risk
+CUST-10254,1,8,1299.65,Germany,5,1,5,515,Recent Customers
+CUST-10255,16,15,1249.77,United Kingdom,4,4,5,445,Champions
+CUST-10256,39,16,1275.51,United Kingdom,2,5,5,255,Need Attention
+CUST-10257,11,19,945.12,United Kingdom,4,5,4,454,Champions
+CUST-10258,18,11,1399.59,United States,3,2,5,325,Promising
+CUST-10259,8,13,1887.76,France,5,3,5,535,Loyal Customers
+CUST-10260,1,11,767.93,France,5,2,3,523,Recent Customers
+CUST-10261,9,7,471.33,Netherlands,4,1,1,411,Recent Customers
+CUST-10262,30,8,1045.68,United Kingdom,2,1,4,214,About To Sleep
+CUST-10263,23,15,722.22,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10264,22,15,630.49,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10265,46,11,960.9,United Kingdom,2,2,4,224,About To Sleep
+CUST-10266,7,17,802.92,United Kingdom,5,5,3,553,Champions
+CUST-10267,79,12,884.2,United Kingdom,1,3,3,133,At Risk
+CUST-10268,12,13,1025.67,Germany,4,3,4,434,Loyal Customers
+CUST-10269,47,12,510.43,Germany,2,3,1,231,Need Attention
+CUST-10270,13,7,452.94,France,4,1,1,411,Recent Customers
+CUST-10271,13,13,586.95,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10272,6,12,1224.84,United Kingdom,5,3,5,535,Loyal Customers
+CUST-10273,32,16,694.68,United Kingdom,2,5,2,252,Need Attention
+CUST-10274,140,9,443.93,United States,1,1,1,111,Lost / Hibernating
+CUST-10275,29,8,736.95,United States,3,1,3,313,Promising
+CUST-10276,39,14,635.93,United Kingdom,2,4,2,242,Need Attention
+CUST-10277,1,19,1603.23,United Kingdom,5,5,5,555,Champions
+CUST-10278,28,17,1416.27,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10279,38,15,857.47,Australia,2,4,3,243,Need Attention
+CUST-10280,6,14,863.96,United Kingdom,5,4,3,543,Champions
+CUST-10281,23,11,604.67,Germany,3,2,2,322,Promising
+CUST-10282,59,12,2033.35,France,1,3,5,135,At Risk
+CUST-10283,22,13,681.94,France,3,4,2,342,Loyal Customers
+CUST-10284,42,12,664.21,United Kingdom,2,3,2,232,Need Attention
+CUST-10285,12,16,701.6,United Kingdom,4,5,3,453,Champions
+CUST-10286,2,10,983.82,United Kingdom,5,2,4,524,Recent Customers
+CUST-10287,39,9,663.95,United Kingdom,2,1,2,212,About To Sleep
+CUST-10288,3,17,827.65,United Kingdom,5,5,3,553,Champions
+CUST-10289,60,12,1871.97,United Kingdom,1,3,5,135,At Risk
+CUST-10290,68,9,486.43,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10291,24,11,587.88,Australia,3,2,2,322,Promising
+CUST-10292,4,9,353.44,United Kingdom,5,1,1,511,Recent Customers
+CUST-10293,36,15,1172.2,United Kingdom,2,4,4,244,Need Attention
+CUST-10294,60,11,779.39,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10295,77,10,591.43,United States,1,2,2,122,Lost / Hibernating
+CUST-10296,36,10,731.43,United Kingdom,2,2,3,223,About To Sleep
+CUST-10297,48,15,875.1,United States,2,4,3,243,Need Attention
+CUST-10298,55,12,328.42,United Kingdom,1,3,1,131,At Risk
+CUST-10299,75,9,394.71,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10300,17,13,1529.08,Australia,4,4,5,445,Champions
+CUST-10301,28,15,901.17,France,3,5,3,353,Loyal Customers
+CUST-10302,2,15,1262.4,Australia,5,5,5,555,Champions
+CUST-10303,3,16,3375.88,United Kingdom,5,5,5,555,Champions
+CUST-10304,94,11,938.92,Germany,1,2,4,124,Lost / Hibernating
+CUST-10305,12,10,575.93,United Kingdom,4,2,2,422,Recent Customers
+CUST-10306,54,7,353.69,Germany,1,1,1,111,Lost / Hibernating
+CUST-10307,28,14,443.25,United States,3,4,1,341,Loyal Customers
+CUST-10308,23,11,1912.7,Netherlands,3,2,5,325,Promising
+CUST-10309,19,15,1557.68,Australia,3,5,5,355,Loyal Customers
+CUST-10310,17,9,775.69,United Kingdom,4,1,3,413,Recent Customers
+CUST-10311,56,11,594.68,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10312,28,11,979.71,United Kingdom,3,2,4,324,Promising
+CUST-10313,73,10,729.62,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10314,10,20,1478.26,Australia,4,5,5,455,Champions
+CUST-10315,21,10,935.37,United Kingdom,3,2,4,324,Promising
+CUST-10316,8,7,391.98,United Kingdom,5,1,1,511,Recent Customers
+CUST-10317,106,7,187.49,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10318,6,10,478.89,United Kingdom,5,2,1,521,Recent Customers
+CUST-10319,1,15,1218.81,Australia,5,5,4,554,Champions
+CUST-10320,14,16,902.69,Australia,4,5,3,453,Champions
+CUST-10321,72,9,416.74,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10322,55,17,2033.13,United Kingdom,1,5,5,155,At Risk
+CUST-10323,47,7,313.42,Germany,2,1,1,211,About To Sleep
+CUST-10324,7,6,572.68,United Kingdom,5,1,2,512,Recent Customers
+CUST-10325,74,9,461.18,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10326,7,13,1740.04,France,5,4,5,545,Champions
+CUST-10327,6,14,921.14,Australia,5,4,4,544,Champions
+CUST-10328,16,13,1090.05,Spain,4,4,4,444,Champions
+CUST-10329,15,21,1726.42,United Kingdom,4,5,5,455,Champions
+CUST-10330,45,19,858.9,Spain,2,5,3,253,Need Attention
+CUST-10331,53,14,1674.21,Netherlands,1,4,5,145,At Risk
+CUST-10332,26,8,542.44,United Kingdom,3,1,2,312,Promising
+CUST-10333,25,14,874.22,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10334,7,11,625.21,United Kingdom,5,2,2,522,Recent Customers
+CUST-10335,49,17,1093.65,Germany,2,5,4,254,Need Attention
+CUST-10336,20,14,1570.41,United Kingdom,3,4,5,345,Loyal Customers
+CUST-10337,58,14,977.44,Spain,1,4,4,144,At Risk
+CUST-10338,20,20,1320.59,France,3,5,5,355,Loyal Customers
+CUST-10339,60,13,1308.88,United Kingdom,1,4,5,145,At Risk
+CUST-10340,5,12,1510.07,United Kingdom,5,3,5,535,Loyal Customers
+CUST-10341,12,15,990.15,United Kingdom,4,5,4,454,Champions
+CUST-10342,17,6,275.25,United Kingdom,4,1,1,411,Recent Customers
+CUST-10343,38,18,1141.69,France,2,5,4,254,Need Attention
+CUST-10344,23,14,697.43,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10345,10,17,1360.07,United Kingdom,4,5,5,455,Champions
+CUST-10346,30,15,1285.15,United Kingdom,2,5,5,255,Need Attention
+CUST-10347,76,8,416.44,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10348,10,11,1023.44,United States,4,2,4,424,Recent Customers
+CUST-10349,16,9,409.97,United States,4,1,1,411,Recent Customers
+CUST-10350,25,5,420.39,United Kingdom,3,1,1,311,Promising
+CUST-10351,36,7,557.44,United Kingdom,2,1,2,212,About To Sleep
+CUST-10352,32,11,1355.05,United Kingdom,2,2,5,225,About To Sleep
+CUST-10353,66,9,543.46,Spain,1,1,2,112,Lost / Hibernating
+CUST-10354,17,12,1102.78,France,4,3,4,434,Loyal Customers
+CUST-10355,19,18,1016.96,Germany,3,5,4,354,Loyal Customers
+CUST-10356,24,10,592.0,United Kingdom,3,2,2,322,Promising
+CUST-10357,22,6,319.48,Germany,3,1,1,311,Promising
+CUST-10358,69,11,612.46,United States,1,2,2,122,Lost / Hibernating
+CUST-10359,18,12,437.15,France,3,3,1,331,Loyal Customers
+CUST-10360,10,14,606.23,Australia,4,4,2,442,Champions
+CUST-10361,14,13,548.95,United Kingdom,4,4,2,442,Champions
+CUST-10362,98,5,321.43,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10363,17,19,883.42,United Kingdom,4,5,3,453,Champions
+CUST-10364,58,13,680.14,United Kingdom,1,4,2,142,At Risk
+CUST-10365,33,14,1021.39,United Kingdom,2,4,4,244,Need Attention
+CUST-10366,7,13,1198.67,United Kingdom,5,4,4,544,Champions
+CUST-10367,9,14,634.18,United Kingdom,4,4,2,442,Champions
+CUST-10368,7,17,1904.26,United Kingdom,5,5,5,555,Champions
+CUST-10369,21,20,1606.93,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10370,7,10,1428.85,United Kingdom,5,2,5,525,Recent Customers
+CUST-10371,21,16,607.15,France,3,5,2,352,Loyal Customers
+CUST-10372,4,4,224.99,Spain,5,1,1,511,Recent Customers
+CUST-10373,1,12,475.99,United Kingdom,5,3,1,531,Loyal Customers
+CUST-10374,15,12,598.22,Germany,4,3,2,432,Loyal Customers
+CUST-10375,17,12,1232.62,Spain,4,3,5,435,Loyal Customers
+CUST-10376,27,14,725.16,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10377,64,10,966.9,United Kingdom,1,2,4,124,Lost / Hibernating
+CUST-10378,8,9,251.43,United Kingdom,5,1,1,511,Recent Customers
+CUST-10379,34,7,210.46,Germany,2,1,1,211,About To Sleep
+CUST-10380,82,12,836.12,Spain,1,3,3,133,At Risk
+CUST-10381,66,7,906.43,Germany,1,1,3,113,Lost / Hibernating
+CUST-10382,93,10,432.96,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-10383,22,15,1166.66,Spain,3,5,4,354,Loyal Customers
+CUST-10384,10,8,500.69,Netherlands,4,1,1,411,Recent Customers
+CUST-10385,51,15,913.0,France,1,5,3,153,At Risk
+CUST-10386,1,22,1544.56,United Kingdom,5,5,5,555,Champions
+CUST-10387,48,9,284.74,United Kingdom,2,1,1,211,About To Sleep
+CUST-10388,57,11,1062.07,Australia,1,2,4,124,Lost / Hibernating
+CUST-10389,10,18,1531.73,United Kingdom,4,5,5,455,Champions
+CUST-10390,45,4,319.96,France,2,1,1,211,About To Sleep
+CUST-10391,27,12,2031.83,Netherlands,3,3,5,335,Loyal Customers
+CUST-10392,24,16,914.6,United Kingdom,3,5,3,353,Loyal Customers
+CUST-10393,38,14,1401.86,United Kingdom,2,4,5,245,Need Attention
+CUST-10394,5,9,570.95,Australia,5,1,2,512,Recent Customers
+CUST-10395,48,12,933.34,United States,2,3,4,234,Need Attention
+CUST-10396,13,14,1024.36,United Kingdom,4,4,4,444,Champions
+CUST-10397,4,10,1189.75,United Kingdom,5,2,4,524,Recent Customers
+CUST-10398,7,11,411.38,France,5,2,1,521,Recent Customers
+CUST-10399,30,8,772.75,France,2,1,3,213,About To Sleep
+CUST-10400,12,10,522.94,United Kingdom,4,2,2,422,Recent Customers
+CUST-10401,19,11,740.19,United Kingdom,3,2,3,323,Promising
+CUST-10402,25,17,633.16,United Kingdom,3,5,2,352,Loyal Customers
+CUST-10403,205,6,545.22,France,1,1,2,112,Lost / Hibernating
+CUST-10404,9,19,1419.31,Netherlands,4,5,5,455,Champions
+CUST-10405,31,12,843.37,Spain,2,3,3,233,Need Attention
+CUST-10406,39,14,496.72,United Kingdom,2,4,1,241,Need Attention
+CUST-10407,90,14,815.28,France,1,4,3,143,At Risk
+CUST-10408,10,12,1174.6,France,4,3,4,434,Loyal Customers
+CUST-10409,26,11,946.89,Netherlands,3,2,4,324,Promising
+CUST-10410,64,8,394.94,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10411,16,23,1416.09,Netherlands,4,5,5,455,Champions
+CUST-10412,68,5,345.98,France,1,1,1,111,Lost / Hibernating
+CUST-10413,11,14,1055.38,Germany,4,4,4,444,Champions
+CUST-10414,65,5,198.94,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10415,11,14,1219.66,United Kingdom,4,4,5,445,Champions
+CUST-10416,42,15,1725.31,United Kingdom,2,5,5,255,Need Attention
+CUST-10417,10,8,527.68,Germany,4,1,2,412,Recent Customers
+CUST-10418,3,15,889.39,United Kingdom,5,5,3,553,Champions
+CUST-10419,1,10,638.4,United Kingdom,5,2,2,522,Recent Customers
+CUST-10420,13,10,944.71,United Kingdom,4,2,4,424,Recent Customers
+CUST-10421,11,15,885.89,United Kingdom,4,5,3,453,Champions
+CUST-10422,51,17,1284.92,United Kingdom,1,5,5,155,At Risk
+CUST-10423,102,9,763.43,Netherlands,1,1,3,113,Lost / Hibernating
+CUST-10424,14,12,955.24,France,4,3,4,434,Loyal Customers
+CUST-10425,19,10,850.69,United Kingdom,3,2,3,323,Promising
+CUST-10426,25,12,1006.83,United Kingdom,3,3,4,334,Loyal Customers
+CUST-10427,21,12,1899.02,United Kingdom,3,3,5,335,Loyal Customers
+CUST-10428,20,10,857.86,United States,3,2,3,323,Promising
+CUST-10429,79,11,1370.89,United Kingdom,1,2,5,125,Lost / Hibernating
+CUST-10430,45,10,1001.87,United Kingdom,2,2,4,224,About To Sleep
+CUST-10431,9,14,942.89,United Kingdom,4,4,4,444,Champions
+CUST-10432,25,13,1230.58,United Kingdom,3,4,5,345,Loyal Customers
+CUST-10433,17,17,904.7,United Kingdom,4,5,3,453,Champions
+CUST-10434,16,13,849.41,United Kingdom,4,4,3,443,Champions
+CUST-10435,4,10,607.64,United Kingdom,5,2,2,522,Recent Customers
+CUST-10436,2,14,903.18,Netherlands,5,4,3,543,Champions
+CUST-10437,68,13,632.83,France,1,4,2,142,At Risk
+CUST-10438,9,18,920.31,United Kingdom,4,5,4,454,Champions
+CUST-10439,19,12,530.71,United Kingdom,3,3,2,332,Loyal Customers
+CUST-10440,34,13,710.66,United Kingdom,2,4,3,243,Need Attention
+CUST-10441,15,14,955.38,Germany,4,4,4,444,Champions
+CUST-10442,25,12,1173.91,Germany,3,3,4,334,Loyal Customers
+CUST-10443,23,9,512.72,United Kingdom,3,1,1,311,Promising
+CUST-10444,38,11,1985.88,United Kingdom,2,2,5,225,About To Sleep
+CUST-10445,39,10,895.44,United Kingdom,2,2,3,223,About To Sleep
+CUST-10446,72,6,536.95,Netherlands,1,1,2,112,Lost / Hibernating
+CUST-10447,46,6,220.99,United Kingdom,2,1,1,211,About To Sleep
+CUST-10448,8,11,688.66,France,5,2,2,522,Recent Customers
+CUST-10449,9,11,970.9,United Kingdom,4,2,4,424,Recent Customers
+CUST-10450,104,10,1200.4,France,1,2,4,124,Lost / Hibernating
+CUST-10451,26,13,499.88,France,3,4,1,341,Loyal Customers
+CUST-10452,8,13,765.14,United Kingdom,5,4,3,543,Champions
+CUST-10453,145,8,560.21,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10454,47,7,305.41,United Kingdom,2,1,1,211,About To Sleep
+CUST-10455,40,12,1109.13,United Kingdom,2,3,4,234,Need Attention
+CUST-10456,1,7,582.5,Australia,5,1,2,512,Recent Customers
+CUST-10457,26,13,757.69,France,3,4,3,343,Loyal Customers
+CUST-10458,30,14,597.47,United Kingdom,2,4,2,242,Need Attention
+CUST-10459,48,12,972.39,United Kingdom,2,3,4,234,Need Attention
+CUST-10460,40,7,389.95,United Kingdom,2,1,1,211,About To Sleep
+CUST-10461,37,13,1299.63,United Kingdom,2,4,5,245,Need Attention
+CUST-10462,53,10,636.24,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10463,19,11,495.21,United Kingdom,3,2,1,321,Promising
+CUST-10464,57,15,624.42,Spain,1,5,2,152,At Risk
+CUST-10465,11,19,2335.92,United Kingdom,4,5,5,455,Champions
+CUST-10466,53,8,559.44,United States,1,1,2,112,Lost / Hibernating
+CUST-10467,9,19,1550.61,United Kingdom,4,5,5,455,Champions
+CUST-10468,7,12,745.2,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10469,10,8,348.73,United Kingdom,4,1,1,411,Recent Customers
+CUST-10470,73,13,1444.95,United Kingdom,1,4,5,145,At Risk
+CUST-10471,88,15,1990.4,United Kingdom,1,5,5,155,At Risk
+CUST-10472,61,6,422.7,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10473,32,9,456.16,United Kingdom,2,1,1,211,About To Sleep
+CUST-10474,59,14,739.71,United Kingdom,1,4,3,143,At Risk
+CUST-10475,112,9,353.72,Germany,1,1,1,111,Lost / Hibernating
+CUST-10476,29,11,573.11,United Kingdom,3,2,2,322,Promising
+CUST-10477,87,6,180.73,Germany,1,1,1,111,Lost / Hibernating
+CUST-10478,45,11,1172.63,United Kingdom,2,2,4,224,About To Sleep
+CUST-10479,17,18,809.94,United Kingdom,4,5,3,453,Champions
+CUST-10480,58,13,666.17,United Kingdom,1,4,2,142,At Risk
+CUST-10481,14,14,624.67,United Kingdom,4,4,2,442,Champions
+CUST-10482,51,12,829.1,Australia,1,3,3,133,At Risk
+CUST-10483,18,14,810.73,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10484,33,13,476.93,United Kingdom,2,4,1,241,Need Attention
+CUST-10485,46,10,1010.54,Germany,2,2,4,224,About To Sleep
+CUST-10486,7,15,915.85,United Kingdom,5,5,3,553,Champions
+CUST-10487,2,9,917.75,United Kingdom,5,2,4,524,Recent Customers
+CUST-10488,83,8,322.16,Spain,1,1,1,111,Lost / Hibernating
+CUST-10489,11,18,1352.83,United Kingdom,4,5,5,455,Champions
+CUST-10490,75,13,1023.14,United Kingdom,1,4,4,144,At Risk
+CUST-10491,39,11,639.73,United Kingdom,2,2,2,222,About To Sleep
+CUST-10492,49,7,422.92,United Kingdom,2,1,1,211,About To Sleep
+CUST-10493,57,11,712.67,Germany,1,2,3,123,Lost / Hibernating
+CUST-10494,32,7,592.48,United States,2,1,2,212,About To Sleep
+CUST-10495,13,15,940.41,Germany,4,5,4,454,Champions
+CUST-10496,21,9,695.9,United Kingdom,3,2,2,322,Promising
+CUST-10497,2,16,1028.19,Germany,5,5,4,554,Champions
+CUST-10498,13,14,894.95,Germany,4,4,3,443,Champions
+CUST-10499,85,13,1779.33,United Kingdom,1,4,5,145,At Risk
+CUST-10500,1,13,1040.37,United Kingdom,5,4,4,544,Champions
+CUST-10501,2,16,2345.32,United Kingdom,5,5,5,555,Champions
+CUST-10502,29,8,943.89,Germany,3,1,4,314,Promising
+CUST-10503,1,10,561.41,United Kingdom,5,2,2,522,Recent Customers
+CUST-10504,23,15,1593.43,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10505,53,11,516.69,France,1,2,2,122,Lost / Hibernating
+CUST-10506,62,11,800.32,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10507,33,11,1387.15,United Kingdom,2,2,5,225,About To Sleep
+CUST-10508,9,7,304.74,United States,4,1,1,411,Recent Customers
+CUST-10509,26,18,926.44,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10510,7,12,1011.41,Germany,5,3,4,534,Loyal Customers
+CUST-10511,13,20,1493.74,United Kingdom,4,5,5,455,Champions
+CUST-10512,8,10,1229.97,United Kingdom,5,2,5,525,Recent Customers
+CUST-10513,52,19,1941.83,United Kingdom,1,5,5,155,At Risk
+CUST-10514,1,16,491.38,United Kingdom,5,5,1,551,Champions
+CUST-10515,132,12,535.74,United Kingdom,1,3,2,132,At Risk
+CUST-10516,9,18,1225.33,United Kingdom,4,5,5,455,Champions
+CUST-10517,3,8,436.21,Germany,5,1,1,511,Recent Customers
+CUST-10518,1,13,857.99,Spain,5,4,3,543,Champions
+CUST-10519,43,11,1018.96,France,2,2,4,224,About To Sleep
+CUST-10520,14,11,621.99,United States,4,2,2,422,Recent Customers
+CUST-10521,20,23,2350.51,Australia,3,5,5,355,Loyal Customers
+CUST-10522,137,9,1158.87,United Kingdom,1,2,4,124,Lost / Hibernating
+CUST-10523,38,12,991.09,United Kingdom,2,3,4,234,Need Attention
+CUST-10524,38,9,602.44,United Kingdom,2,2,2,222,About To Sleep
+CUST-10525,48,11,1028.09,United Kingdom,2,2,4,224,About To Sleep
+CUST-10526,49,11,343.94,France,2,3,1,231,Need Attention
+CUST-10527,20,7,2240.71,United Kingdom,3,1,5,315,Promising
+CUST-10528,14,16,1604.11,United Kingdom,4,5,5,455,Champions
+CUST-10529,36,17,1321.41,United Kingdom,2,5,5,255,Need Attention
+CUST-10530,66,8,1073.16,United Kingdom,1,1,4,114,Lost / Hibernating
+CUST-10531,11,11,294.19,Germany,4,3,1,431,Loyal Customers
+CUST-10532,4,11,805.88,France,5,3,3,533,Loyal Customers
+CUST-10533,7,14,1711.55,Germany,5,4,5,545,Champions
+CUST-10534,35,10,532.39,United Kingdom,2,2,2,222,About To Sleep
+CUST-10535,129,12,1200.41,United Kingdom,1,3,4,134,At Risk
+CUST-10536,8,14,768.35,United Kingdom,5,4,3,543,Champions
+CUST-10537,79,8,1326.12,United Kingdom,1,1,5,115,Lost / Hibernating
+CUST-10538,26,11,570.67,Spain,3,3,2,332,Loyal Customers
+CUST-10539,6,13,1714.58,Netherlands,5,4,5,545,Champions
+CUST-10540,5,12,723.45,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10541,28,15,1156.97,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10542,4,11,648.88,Netherlands,5,3,2,532,Loyal Customers
+CUST-10543,53,6,493.98,France,1,1,1,111,Lost / Hibernating
+CUST-10544,32,6,323.47,Germany,2,1,1,211,About To Sleep
+CUST-10545,2,12,882.16,France,5,3,3,533,Loyal Customers
+CUST-10546,1,9,345.2,United Kingdom,5,2,1,521,Recent Customers
+CUST-10547,1,13,736.71,United Kingdom,5,4,3,543,Champions
+CUST-10548,28,17,1154.57,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10549,68,11,1227.65,Spain,1,3,5,135,At Risk
+CUST-10550,33,12,1694.88,United Kingdom,2,3,5,235,Need Attention
+CUST-10551,12,9,1195.17,Germany,4,2,4,424,Recent Customers
+CUST-10552,2,13,773.11,United Kingdom,5,4,3,543,Champions
+CUST-10553,25,13,759.07,France,3,4,3,343,Loyal Customers
+CUST-10554,4,16,770.45,United Kingdom,5,5,3,553,Champions
+CUST-10555,25,20,1328.33,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10556,67,8,355.92,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10557,25,13,727.36,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10558,111,7,534.5,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10559,95,6,346.95,Netherlands,1,1,1,111,Lost / Hibernating
+CUST-10560,18,10,1021.29,United Kingdom,3,2,4,324,Promising
+CUST-10561,42,13,1108.19,Spain,2,4,4,244,Need Attention
+CUST-10562,42,15,1191.62,United Kingdom,2,5,4,254,Need Attention
+CUST-10563,55,10,534.67,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10564,38,5,934.75,Netherlands,2,1,4,214,About To Sleep
+CUST-10565,1,12,858.36,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10566,21,13,928.2,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10567,13,11,988.69,United Kingdom,4,3,4,434,Loyal Customers
+CUST-10568,87,9,592.47,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10569,15,11,694.87,Spain,4,3,2,432,Loyal Customers
+CUST-10570,28,19,1286.88,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10571,1,13,633.15,United Kingdom,5,4,2,542,Champions
+CUST-10572,22,6,646.44,United Kingdom,3,1,2,312,Promising
+CUST-10573,60,3,173.99,United States,1,1,1,111,Lost / Hibernating
+CUST-10574,52,11,551.48,United Kingdom,1,3,2,132,At Risk
+CUST-10575,23,10,600.88,France,3,2,2,322,Promising
+CUST-10576,23,17,1854.73,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10577,1,7,274.72,Germany,5,1,1,511,Recent Customers
+CUST-10578,9,11,1046.97,France,4,3,4,434,Loyal Customers
+CUST-10579,7,9,561.44,United Kingdom,5,2,2,522,Recent Customers
+CUST-10580,4,20,1167.64,United Kingdom,5,5,4,554,Champions
+CUST-10581,21,11,770.96,France,3,3,3,333,Loyal Customers
+CUST-10582,131,9,333.44,France,1,2,1,121,Lost / Hibernating
+CUST-10583,16,13,1956.08,United Kingdom,4,4,5,445,Champions
+CUST-10584,5,13,689.87,United Kingdom,5,4,2,542,Champions
+CUST-10585,9,11,723.74,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10586,3,8,349.48,United Kingdom,5,1,1,511,Recent Customers
+CUST-10587,12,17,1942.67,United Kingdom,4,5,5,455,Champions
+CUST-10588,91,8,635.91,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10589,6,9,1205.95,United Kingdom,5,2,4,524,Recent Customers
+CUST-10590,1,11,779.45,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10591,20,20,1575.14,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10592,76,10,858.86,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10593,46,13,1648.27,Australia,2,4,5,245,Need Attention
+CUST-10594,4,17,2015.3,Germany,5,5,5,555,Champions
+CUST-10595,64,5,707.39,United Kingdom,1,1,3,113,Lost / Hibernating
+CUST-10596,5,11,1456.63,United Kingdom,5,3,5,535,Loyal Customers
+CUST-10597,27,7,314.75,United Kingdom,3,1,1,311,Promising
+CUST-10598,16,10,1458.44,United Kingdom,4,2,5,425,Recent Customers
+CUST-10599,112,11,679.44,United Kingdom,1,3,2,132,At Risk
+CUST-10600,3,14,1608.34,United Kingdom,5,4,5,545,Champions
+CUST-10601,4,16,1519.73,United Kingdom,5,5,5,555,Champions
+CUST-10602,25,16,2742.26,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10603,16,12,805.63,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10604,26,10,456.14,United Kingdom,3,2,1,321,Promising
+CUST-10605,42,14,826.22,Spain,2,4,3,243,Need Attention
+CUST-10606,33,17,1783.08,United Kingdom,2,5,5,255,Need Attention
+CUST-10607,7,18,1177.44,United Kingdom,5,5,4,554,Champions
+CUST-10608,24,13,757.13,United Kingdom,3,4,3,343,Loyal Customers
+CUST-10609,30,17,1265.75,United Kingdom,2,5,5,255,Need Attention
+CUST-10610,79,9,335.94,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-10611,19,13,1247.35,Germany,3,4,5,345,Loyal Customers
+CUST-10612,3,15,751.89,France,5,5,3,553,Champions
+CUST-10613,11,15,1055.23,France,4,5,4,454,Champions
+CUST-10614,11,9,816.89,Netherlands,4,2,3,423,Recent Customers
+CUST-10615,50,10,687.35,United States,1,2,2,122,Lost / Hibernating
+CUST-10616,88,7,537.83,Germany,1,1,2,112,Lost / Hibernating
+CUST-10617,4,19,1633.34,United Kingdom,5,5,5,555,Champions
+CUST-10618,54,6,332.45,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10619,65,14,469.94,United Kingdom,1,4,1,141,At Risk
+CUST-10620,6,14,1333.14,United Kingdom,5,4,5,545,Champions
+CUST-10621,46,12,898.57,United Kingdom,2,3,3,233,Need Attention
+CUST-10622,27,8,750.97,United Kingdom,3,1,3,313,Promising
+CUST-10623,10,20,1360.22,Germany,4,5,5,455,Champions
+CUST-10624,17,9,508.7,United Kingdom,4,2,1,421,Recent Customers
+CUST-10625,118,10,741.43,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10626,26,20,1026.08,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10627,1,10,506.64,United Kingdom,5,2,1,521,Recent Customers
+CUST-10628,32,12,724.91,Germany,2,3,3,233,Need Attention
+CUST-10629,21,13,1517.37,Spain,3,4,5,345,Loyal Customers
+CUST-10630,6,16,1054.43,United Kingdom,5,5,4,554,Champions
+CUST-10631,24,6,204.98,Germany,3,1,1,311,Promising
+CUST-10632,24,15,848.23,United States,3,5,3,353,Loyal Customers
+CUST-10633,23,5,245.99,United Kingdom,3,1,1,311,Promising
+CUST-10634,13,7,290.73,United Kingdom,4,1,1,411,Recent Customers
+CUST-10635,29,8,571.14,United Kingdom,3,1,2,312,Promising
+CUST-10636,17,9,459.37,Australia,4,2,1,421,Recent Customers
+CUST-10637,2,8,343.95,United Kingdom,5,1,1,511,Recent Customers
+CUST-10638,6,13,2240.57,United Kingdom,5,4,5,545,Champions
+CUST-10639,22,7,1065.76,Germany,3,1,4,314,Promising
+CUST-10640,35,13,702.43,United Kingdom,2,4,3,243,Need Attention
+CUST-10641,38,6,263.97,United Kingdom,2,1,1,211,About To Sleep
+CUST-10642,73,11,700.67,United Kingdom,1,3,3,133,At Risk
+CUST-10643,51,10,533.14,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10644,5,10,736.46,United Kingdom,5,2,3,523,Recent Customers
+CUST-10645,8,16,1385.23,United Kingdom,5,5,5,555,Champions
+CUST-10646,1,10,661.44,United Kingdom,5,2,2,522,Recent Customers
+CUST-10647,16,13,642.3,United Kingdom,4,4,2,442,Champions
+CUST-10648,14,12,526.09,United States,4,3,2,432,Loyal Customers
+CUST-10649,11,5,526.92,United Kingdom,4,1,2,412,Recent Customers
+CUST-10650,30,15,593.14,United Kingdom,2,5,2,252,Need Attention
+CUST-10651,44,12,614.68,Germany,2,3,2,232,Need Attention
+CUST-10652,14,10,546.91,France,4,2,2,422,Recent Customers
+CUST-10653,17,20,1498.39,United Kingdom,4,5,5,455,Champions
+CUST-10654,42,14,989.41,Germany,2,4,4,244,Need Attention
+CUST-10655,4,16,1167.19,United Kingdom,5,5,4,554,Champions
+CUST-10656,4,13,748.16,United Kingdom,5,4,3,543,Champions
+CUST-10657,18,8,377.23,United Kingdom,3,1,1,311,Promising
+CUST-10658,11,13,408.17,United Kingdom,4,4,1,441,Champions
+CUST-10659,7,14,960.45,United Kingdom,5,4,4,544,Champions
+CUST-10660,2,10,845.33,United Kingdom,5,2,3,523,Recent Customers
+CUST-10661,172,4,318.92,Australia,1,1,1,111,Lost / Hibernating
+CUST-10662,44,5,1926.28,United Kingdom,2,1,5,215,About To Sleep
+CUST-10663,17,10,918.96,United Kingdom,4,2,4,424,Recent Customers
+CUST-10664,9,15,1215.58,France,4,5,4,454,Champions
+CUST-10665,15,13,931.63,United Kingdom,4,4,4,444,Champions
+CUST-10666,5,17,1315.38,United Kingdom,5,5,5,555,Champions
+CUST-10667,13,9,823.4,United Kingdom,4,2,3,423,Recent Customers
+CUST-10668,15,11,574.66,France,4,3,2,432,Loyal Customers
+CUST-10669,14,12,897.13,France,4,3,3,433,Loyal Customers
+CUST-10670,28,15,1432.65,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10671,2,17,2505.93,United Kingdom,5,5,5,555,Champions
+CUST-10672,16,7,654.26,Germany,4,1,2,412,Recent Customers
+CUST-10673,21,9,1002.06,United Kingdom,3,2,4,324,Promising
+CUST-10674,43,9,945.9,United Kingdom,2,2,4,224,About To Sleep
+CUST-10675,64,10,682.83,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10676,23,12,850.9,Spain,3,3,3,333,Loyal Customers
+CUST-10677,34,13,831.78,United Kingdom,2,4,3,243,Need Attention
+CUST-10678,4,19,1134.19,Germany,5,5,4,554,Champions
+CUST-10679,30,7,487.64,United Kingdom,2,1,1,211,About To Sleep
+CUST-10680,74,13,737.15,United Kingdom,1,4,3,143,At Risk
+CUST-10681,37,11,1515.81,United Kingdom,2,3,5,235,Need Attention
+CUST-10682,19,17,1871.42,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10683,32,13,1171.09,United States,2,4,4,244,Need Attention
+CUST-10684,64,14,769.49,France,1,4,3,143,At Risk
+CUST-10685,86,11,588.47,Australia,1,3,2,132,At Risk
+CUST-10686,76,9,1146.47,United Kingdom,1,2,4,124,Lost / Hibernating
+CUST-10687,95,9,321.97,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-10688,33,12,1589.06,United Kingdom,2,3,5,235,Need Attention
+CUST-10689,3,8,691.0,United Kingdom,5,1,2,512,Recent Customers
+CUST-10690,37,10,469.21,United Kingdom,2,2,1,221,About To Sleep
+CUST-10691,10,17,1206.42,United Kingdom,4,5,4,454,Champions
+CUST-10692,14,8,192.2,Germany,4,1,1,411,Recent Customers
+CUST-10693,30,13,1006.67,France,2,4,4,244,Need Attention
+CUST-10694,15,10,697.7,Germany,4,2,3,423,Recent Customers
+CUST-10695,7,17,2398.49,United Kingdom,5,5,5,555,Champions
+CUST-10696,14,9,594.14,United Kingdom,4,2,2,422,Recent Customers
+CUST-10697,30,13,646.41,United States,2,4,2,242,Need Attention
+CUST-10698,7,7,677.94,United Kingdom,5,1,2,512,Recent Customers
+CUST-10699,23,13,1205.33,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10700,6,12,786.32,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10701,29,9,825.44,United Kingdom,3,2,3,323,Promising
+CUST-10702,33,14,1950.18,United Kingdom,2,4,5,245,Need Attention
+CUST-10703,76,16,890.1,France,1,5,3,153,At Risk
+CUST-10704,7,6,607.43,United Kingdom,5,1,2,512,Recent Customers
+CUST-10705,7,14,1333.88,Germany,5,4,5,545,Champions
+CUST-10706,5,10,283.46,United States,5,2,1,521,Recent Customers
+CUST-10707,31,9,328.47,United Kingdom,2,2,1,221,About To Sleep
+CUST-10708,5,12,1646.46,United Kingdom,5,3,5,535,Loyal Customers
+CUST-10709,2,20,1600.4,United Kingdom,5,5,5,555,Champions
+CUST-10710,38,11,594.99,United States,2,3,2,232,Need Attention
+CUST-10711,67,18,1554.89,United States,1,5,5,155,At Risk
+CUST-10712,23,13,597.97,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10713,25,13,908.96,Spain,3,4,3,343,Loyal Customers
+CUST-10714,10,13,804.91,United Kingdom,4,4,3,443,Champions
+CUST-10715,12,17,1174.66,United Kingdom,4,5,4,454,Champions
+CUST-10716,58,13,611.9,United Kingdom,1,4,2,142,At Risk
+CUST-10717,95,13,1888.11,Spain,1,4,5,145,At Risk
+CUST-10718,32,12,919.4,United States,2,3,4,234,Need Attention
+CUST-10719,36,12,563.19,United Kingdom,2,3,2,232,Need Attention
+CUST-10720,7,11,595.2,United Kingdom,5,3,2,532,Loyal Customers
+CUST-10721,35,5,379.9,United Kingdom,2,1,1,211,About To Sleep
+CUST-10722,3,13,673.66,France,5,4,2,542,Champions
+CUST-10723,34,16,930.97,Australia,2,5,4,254,Need Attention
+CUST-10724,23,16,678.43,United States,3,5,2,352,Loyal Customers
+CUST-10725,9,14,850.43,United Kingdom,4,4,3,443,Champions
+CUST-10726,2,12,956.36,Netherlands,5,3,4,534,Loyal Customers
+CUST-10727,16,13,2480.0,Australia,4,4,5,445,Champions
+CUST-10728,86,4,511.47,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10729,25,8,1414.78,United Kingdom,3,1,5,315,Promising
+CUST-10730,54,11,1007.68,France,1,3,4,134,At Risk
+CUST-10731,28,12,625.49,Spain,3,3,2,332,Loyal Customers
+CUST-10732,8,21,1824.07,United Kingdom,5,5,5,555,Champions
+CUST-10733,18,8,341.49,France,3,1,1,311,Promising
+CUST-10734,8,14,899.95,United States,5,4,3,543,Champions
+CUST-10735,16,14,697.12,United Kingdom,4,4,2,442,Champions
+CUST-10736,10,15,992.8,United Kingdom,4,5,4,454,Champions
+CUST-10737,116,14,373.96,France,1,4,1,141,At Risk
+CUST-10738,21,11,908.95,United Kingdom,3,3,3,333,Loyal Customers
+CUST-10739,44,14,1341.88,United Kingdom,2,4,5,245,Need Attention
+CUST-10740,6,12,414.71,United States,5,3,1,531,Loyal Customers
+CUST-10741,89,18,1177.15,United Kingdom,1,5,4,154,At Risk
+CUST-10742,28,15,609.22,United Kingdom,3,5,2,352,Loyal Customers
+CUST-10743,6,16,1439.15,Germany,5,5,5,555,Champions
+CUST-10744,20,14,1082.62,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10745,12,10,581.94,United Kingdom,4,2,2,422,Recent Customers
+CUST-10746,45,16,882.62,United Kingdom,2,5,3,253,Need Attention
+CUST-10747,11,8,309.49,Netherlands,4,1,1,411,Recent Customers
+CUST-10748,29,12,893.96,United Kingdom,3,3,3,333,Loyal Customers
+CUST-10749,16,21,1697.4,United Kingdom,4,5,5,455,Champions
+CUST-10750,1,12,452.64,Australia,5,3,1,531,Loyal Customers
+CUST-10751,4,11,707.97,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10752,51,11,1196.68,France,1,3,4,134,At Risk
+CUST-10753,35,12,1778.84,United Kingdom,2,3,5,235,Need Attention
+CUST-10754,33,16,607.37,United Kingdom,2,5,2,252,Need Attention
+CUST-10755,17,17,1232.14,United Kingdom,4,5,5,455,Champions
+CUST-10756,44,9,768.1,United Kingdom,2,2,3,223,About To Sleep
+CUST-10757,26,12,1160.68,United States,3,3,4,334,Loyal Customers
+CUST-10758,103,7,599.14,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-10759,1,16,1048.7,United Kingdom,5,5,4,554,Champions
+CUST-10760,21,11,911.92,United Kingdom,3,3,3,333,Loyal Customers
+CUST-10761,20,19,1501.88,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10762,33,18,1210.66,United Kingdom,2,5,4,254,Need Attention
+CUST-10763,65,11,1249.38,France,1,3,5,135,At Risk
+CUST-10764,22,19,1214.23,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10765,9,20,1574.27,United Kingdom,4,5,5,455,Champions
+CUST-10766,7,13,608.7,United States,5,4,2,542,Champions
+CUST-10767,24,7,414.69,United Kingdom,3,1,1,311,Promising
+CUST-10768,7,11,599.19,United Kingdom,5,3,2,532,Loyal Customers
+CUST-10769,53,17,1761.94,United Kingdom,1,5,5,155,At Risk
+CUST-10770,2,13,636.64,France,5,4,2,542,Champions
+CUST-10771,8,17,760.69,United Kingdom,5,5,3,553,Champions
+CUST-10772,11,13,973.64,United Kingdom,4,4,4,444,Champions
+CUST-10773,61,7,482.45,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10774,80,10,734.7,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10775,29,14,984.13,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10776,13,15,1015.69,France,4,5,4,454,Champions
+CUST-10777,58,9,1599.77,France,1,2,5,125,Lost / Hibernating
+CUST-10778,145,9,1831.38,United Kingdom,1,2,5,125,Lost / Hibernating
+CUST-10779,30,14,866.68,United Kingdom,2,4,3,243,Need Attention
+CUST-10780,2,9,354.21,United Kingdom,5,2,1,521,Recent Customers
+CUST-10781,26,15,1154.66,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10782,67,14,606.21,United Kingdom,1,4,2,142,At Risk
+CUST-10783,30,18,1254.36,United States,2,5,5,255,Need Attention
+CUST-10784,20,10,464.92,United Kingdom,3,2,1,321,Promising
+CUST-10785,7,12,662.41,Spain,5,3,2,532,Loyal Customers
+CUST-10786,10,14,893.87,Germany,4,4,3,443,Champions
+CUST-10787,18,7,211.73,United Kingdom,3,1,1,311,Promising
+CUST-10788,29,13,1651.06,United Kingdom,3,4,5,345,Loyal Customers
+CUST-10789,10,16,1087.31,United Kingdom,4,5,4,454,Champions
+CUST-10790,29,9,424.11,Germany,3,2,1,321,Promising
+CUST-10791,109,8,1696.16,United Kingdom,1,1,5,115,Lost / Hibernating
+CUST-10792,14,12,554.99,Germany,4,3,2,432,Loyal Customers
+CUST-10793,13,14,635.38,United Kingdom,4,4,2,442,Champions
+CUST-10794,15,14,847.82,United States,4,4,3,443,Champions
+CUST-10795,29,11,804.22,United States,3,3,3,333,Loyal Customers
+CUST-10796,37,11,785.81,United Kingdom,2,3,3,233,Need Attention
+CUST-10797,70,14,846.69,United Kingdom,1,4,3,143,At Risk
+CUST-10798,137,8,357.66,Germany,1,1,1,111,Lost / Hibernating
+CUST-10799,21,11,755.93,United Kingdom,3,3,3,333,Loyal Customers
+CUST-10800,7,14,849.05,United Kingdom,5,4,3,543,Champions
+CUST-10801,24,10,469.45,United Kingdom,3,2,1,321,Promising
+CUST-10802,37,12,802.56,Australia,2,3,3,233,Need Attention
+CUST-10803,17,11,905.12,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10804,69,9,334.7,France,1,2,1,121,Lost / Hibernating
+CUST-10805,20,9,461.17,France,3,2,1,321,Promising
+CUST-10806,30,8,662.45,United States,2,1,2,212,About To Sleep
+CUST-10807,23,6,682.93,United Kingdom,3,1,2,312,Promising
+CUST-10808,12,11,1524.13,United Kingdom,4,3,5,435,Loyal Customers
+CUST-10809,38,12,1778.28,Germany,2,3,5,235,Need Attention
+CUST-10810,46,8,309.45,United Kingdom,2,1,1,211,About To Sleep
+CUST-10811,53,13,481.9,United Kingdom,1,4,1,141,At Risk
+CUST-10812,2,11,1022.39,Germany,5,3,4,534,Loyal Customers
+CUST-10813,17,8,588.41,Germany,4,1,2,412,Recent Customers
+CUST-10814,17,7,454.42,Germany,4,1,1,411,Recent Customers
+CUST-10815,6,17,1708.28,United Kingdom,5,5,5,555,Champions
+CUST-10816,10,9,410.15,United Kingdom,4,2,1,421,Recent Customers
+CUST-10817,12,7,282.74,United Kingdom,4,1,1,411,Recent Customers
+CUST-10818,10,15,1550.77,United Kingdom,4,5,5,455,Champions
+CUST-10819,78,13,909.17,United Kingdom,1,4,3,143,At Risk
+CUST-10820,19,12,941.4,United Kingdom,3,3,4,334,Loyal Customers
+CUST-10821,71,9,699.19,Germany,1,2,3,123,Lost / Hibernating
+CUST-10822,65,10,772.73,France,1,2,3,123,Lost / Hibernating
+CUST-10823,45,13,1626.84,United Kingdom,2,4,5,245,Need Attention
+CUST-10824,3,14,736.36,United Kingdom,5,4,3,543,Champions
+CUST-10825,56,15,1153.59,United Kingdom,1,5,4,154,At Risk
+CUST-10826,84,9,513.21,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10827,52,12,553.97,United Kingdom,1,3,2,132,At Risk
+CUST-10828,110,9,362.92,Germany,1,2,1,121,Lost / Hibernating
+CUST-10829,29,13,603.2,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10830,67,5,584.88,Spain,1,1,2,112,Lost / Hibernating
+CUST-10831,3,7,358.44,France,5,1,1,511,Recent Customers
+CUST-10832,38,6,781.39,Netherlands,2,1,3,213,About To Sleep
+CUST-10833,73,6,709.47,United Kingdom,1,1,3,113,Lost / Hibernating
+CUST-10834,46,11,614.99,France,2,3,2,232,Need Attention
+CUST-10835,44,6,408.49,United Kingdom,2,1,1,211,About To Sleep
+CUST-10836,44,11,675.91,United Kingdom,2,3,2,232,Need Attention
+CUST-10837,41,9,2156.03,Australia,2,2,5,225,About To Sleep
+CUST-10838,23,16,1264.56,United Kingdom,3,5,5,355,Loyal Customers
+CUST-10839,48,12,579.96,United Kingdom,2,3,2,232,Need Attention
+CUST-10840,47,7,572.97,United Kingdom,2,1,2,212,About To Sleep
+CUST-10841,2,16,1055.47,France,5,5,4,554,Champions
+CUST-10842,50,7,1152.62,Australia,1,1,4,114,Lost / Hibernating
+CUST-10843,36,16,821.75,United Kingdom,2,5,3,253,Need Attention
+CUST-10844,45,5,669.55,France,2,1,2,212,About To Sleep
+CUST-10845,62,12,437.71,United Kingdom,1,3,1,131,At Risk
+CUST-10846,22,16,1048.73,Germany,3,5,4,354,Loyal Customers
+CUST-10847,15,19,982.33,United Kingdom,4,5,4,454,Champions
+CUST-10848,3,27,2130.69,France,5,5,5,555,Champions
+CUST-10849,39,9,500.44,United Kingdom,2,2,1,221,About To Sleep
+CUST-10850,5,8,679.72,France,5,1,2,512,Recent Customers
+CUST-10851,21,12,459.97,United Kingdom,3,3,1,331,Loyal Customers
+CUST-10852,20,11,456.46,United States,3,3,1,331,Loyal Customers
+CUST-10853,3,6,473.22,United Kingdom,5,1,1,511,Recent Customers
+CUST-10854,4,8,459.65,United Kingdom,5,1,1,511,Recent Customers
+CUST-10855,18,13,650.64,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10856,46,13,1191.7,United Kingdom,2,4,4,244,Need Attention
+CUST-10857,43,15,1048.42,Germany,2,5,4,254,Need Attention
+CUST-10858,60,10,355.96,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-10859,46,10,427.93,Spain,2,2,1,221,About To Sleep
+CUST-10860,3,14,668.45,Germany,5,4,2,542,Champions
+CUST-10861,74,13,1279.6,United Kingdom,1,4,5,145,At Risk
+CUST-10862,16,12,618.73,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10863,67,13,1059.45,United Kingdom,1,4,4,144,At Risk
+CUST-10864,38,5,1046.5,United Kingdom,2,1,4,214,About To Sleep
+CUST-10865,32,7,561.48,Spain,2,1,2,212,About To Sleep
+CUST-10866,18,14,1155.43,United Kingdom,3,4,4,344,Loyal Customers
+CUST-10867,54,16,1253.38,Germany,1,5,5,155,At Risk
+CUST-10868,8,10,1012.21,United Kingdom,5,2,4,524,Recent Customers
+CUST-10869,31,12,484.2,United Kingdom,2,3,1,231,Need Attention
+CUST-10870,29,8,462.93,United Kingdom,3,1,1,311,Promising
+CUST-10871,44,17,1203.33,Spain,2,5,4,254,Need Attention
+CUST-10872,7,13,1393.25,United States,5,4,5,545,Champions
+CUST-10873,64,13,1133.13,United Kingdom,1,4,4,144,At Risk
+CUST-10874,9,14,992.37,United Kingdom,4,4,4,444,Champions
+CUST-10875,17,17,1243.65,United Kingdom,4,5,5,455,Champions
+CUST-10876,17,15,1512.08,United Kingdom,4,5,5,455,Champions
+CUST-10877,19,12,602.18,United Kingdom,3,3,2,332,Loyal Customers
+CUST-10878,12,12,740.49,Germany,4,3,3,433,Loyal Customers
+CUST-10879,33,12,1487.94,United Kingdom,2,3,5,235,Need Attention
+CUST-10880,46,16,929.35,United Kingdom,2,5,4,254,Need Attention
+CUST-10881,8,11,732.62,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10882,40,10,454.49,United Kingdom,2,2,1,221,About To Sleep
+CUST-10883,63,7,1052.98,United Kingdom,1,1,4,114,Lost / Hibernating
+CUST-10884,2,13,1033.21,United States,5,4,4,544,Champions
+CUST-10885,39,13,970.34,United Kingdom,2,4,4,244,Need Attention
+CUST-10886,40,12,690.91,France,2,3,2,232,Need Attention
+CUST-10887,6,6,497.74,United Kingdom,5,1,1,511,Recent Customers
+CUST-10888,2,12,313.98,United Kingdom,5,3,1,531,Loyal Customers
+CUST-10889,37,16,1094.15,United Kingdom,2,5,4,254,Need Attention
+CUST-10890,16,8,729.42,United Kingdom,4,1,3,413,Recent Customers
+CUST-10891,42,14,663.83,United Kingdom,2,4,2,242,Need Attention
+CUST-10892,29,9,1085.23,France,3,2,4,324,Promising
+CUST-10893,9,12,2936.52,Germany,4,3,5,435,Loyal Customers
+CUST-10894,42,9,554.74,France,2,2,2,222,About To Sleep
+CUST-10895,12,19,1340.45,United Kingdom,4,5,5,455,Champions
+CUST-10896,47,11,762.97,United Kingdom,2,3,3,233,Need Attention
+CUST-10897,40,8,486.48,United Kingdom,2,1,1,211,About To Sleep
+CUST-10898,52,15,1119.79,United Kingdom,1,5,4,154,At Risk
+CUST-10899,3,16,681.92,United Kingdom,5,5,2,552,Champions
+CUST-10900,58,9,481.47,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-10901,61,10,600.92,United Kingdom,1,2,2,122,Lost / Hibernating
+CUST-10902,1,10,613.46,United Kingdom,5,2,2,522,Recent Customers
+CUST-10903,27,12,486.72,Germany,3,3,1,331,Loyal Customers
+CUST-10904,36,18,1652.68,Spain,2,5,5,255,Need Attention
+CUST-10905,6,12,803.3,United Kingdom,5,3,3,533,Loyal Customers
+CUST-10906,17,11,440.93,United Kingdom,4,3,1,431,Loyal Customers
+CUST-10907,27,16,1779.3,Netherlands,3,5,5,355,Loyal Customers
+CUST-10908,24,17,791.42,Germany,3,5,3,353,Loyal Customers
+CUST-10909,105,6,486.47,United States,1,1,1,111,Lost / Hibernating
+CUST-10910,39,13,866.87,Spain,2,4,3,243,Need Attention
+CUST-10911,17,16,502.4,Germany,4,5,1,451,Champions
+CUST-10912,1,7,406.22,United States,5,1,1,511,Recent Customers
+CUST-10913,2,13,821.96,United Kingdom,5,4,3,543,Champions
+CUST-10914,15,11,587.89,United Kingdom,4,3,2,432,Loyal Customers
+CUST-10915,28,18,1164.87,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10916,11,8,1412.94,France,4,1,5,415,Recent Customers
+CUST-10917,81,9,1173.35,United Kingdom,1,2,4,124,Lost / Hibernating
+CUST-10918,1,11,848.46,Germany,5,3,3,533,Loyal Customers
+CUST-10919,2,9,502.95,United States,5,2,1,521,Recent Customers
+CUST-10920,9,5,152.24,United Kingdom,4,1,1,411,Recent Customers
+CUST-10921,13,14,549.63,United Kingdom,4,4,2,442,Champions
+CUST-10922,8,18,1025.21,United Kingdom,5,5,4,554,Champions
+CUST-10923,27,12,583.63,United Kingdom,3,3,2,332,Loyal Customers
+CUST-10924,48,16,1239.92,Netherlands,2,5,5,255,Need Attention
+CUST-10925,8,8,415.95,United Kingdom,5,1,1,511,Recent Customers
+CUST-10926,24,9,1048.47,United Kingdom,3,2,4,324,Promising
+CUST-10927,22,13,2015.16,United Kingdom,3,4,5,345,Loyal Customers
+CUST-10928,3,10,410.45,United Kingdom,5,2,1,521,Recent Customers
+CUST-10929,17,15,804.88,France,4,5,3,453,Champions
+CUST-10930,13,12,822.6,United Kingdom,4,3,3,433,Loyal Customers
+CUST-10931,114,14,748.34,Netherlands,1,4,3,143,At Risk
+CUST-10932,12,8,255.69,United Kingdom,4,1,1,411,Recent Customers
+CUST-10933,6,16,650.46,United Kingdom,5,5,2,552,Champions
+CUST-10934,50,11,879.44,France,1,3,3,133,At Risk
+CUST-10935,66,12,640.97,France,1,3,2,132,At Risk
+CUST-10936,39,16,877.36,France,2,5,3,253,Need Attention
+CUST-10937,22,5,139.24,United Kingdom,3,1,1,311,Promising
+CUST-10938,19,9,439.5,United Kingdom,3,2,1,321,Promising
+CUST-10939,78,10,822.14,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-10940,30,18,1274.67,United States,2,5,5,255,Need Attention
+CUST-10941,26,8,522.25,France,3,1,2,312,Promising
+CUST-10942,11,15,750.79,France,4,5,3,453,Champions
+CUST-10943,10,17,3192.99,United Kingdom,4,5,5,455,Champions
+CUST-10944,13,9,243.49,United Kingdom,4,2,1,421,Recent Customers
+CUST-10945,58,12,768.2,United Kingdom,1,3,3,133,At Risk
+CUST-10946,11,9,657.1,United Kingdom,4,2,2,422,Recent Customers
+CUST-10947,23,16,1204.44,United Kingdom,3,5,4,354,Loyal Customers
+CUST-10948,78,8,320.49,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10949,10,12,739.92,Germany,4,3,3,433,Loyal Customers
+CUST-10950,12,6,525.69,United Kingdom,4,1,2,412,Recent Customers
+CUST-10951,5,11,977.55,Australia,5,3,4,534,Loyal Customers
+CUST-10952,8,15,973.14,United States,5,5,4,554,Champions
+CUST-10953,100,11,653.65,United Kingdom,1,3,2,132,At Risk
+CUST-10954,10,17,1283.59,United Kingdom,4,5,5,455,Champions
+CUST-10955,73,7,495.7,United States,1,1,1,111,Lost / Hibernating
+CUST-10956,62,10,426.94,United States,1,2,1,121,Lost / Hibernating
+CUST-10957,90,8,650.16,United States,1,1,2,112,Lost / Hibernating
+CUST-10958,7,8,466.73,United Kingdom,5,1,1,511,Recent Customers
+CUST-10959,71,11,954.33,United Kingdom,1,3,4,134,At Risk
+CUST-10960,15,15,1588.38,United Kingdom,4,5,5,455,Champions
+CUST-10961,2,14,1128.97,Germany,5,4,4,544,Champions
+CUST-10962,23,16,1093.93,United States,3,5,4,354,Loyal Customers
+CUST-10963,5,15,889.9,United States,5,5,3,553,Champions
+CUST-10964,81,15,1205.89,United Kingdom,1,5,4,154,At Risk
+CUST-10965,56,10,500.41,Germany,1,2,1,121,Lost / Hibernating
+CUST-10966,26,9,275.96,United Kingdom,3,2,1,321,Promising
+CUST-10967,13,14,1616.96,United Kingdom,4,4,5,445,Champions
+CUST-10968,3,17,720.16,Australia,5,5,3,553,Champions
+CUST-10969,16,11,657.21,United States,4,3,2,432,Loyal Customers
+CUST-10970,21,11,470.98,United States,3,3,1,331,Loyal Customers
+CUST-10971,27,13,466.64,United Kingdom,3,4,1,341,Loyal Customers
+CUST-10972,1,11,613.71,United Kingdom,5,3,2,532,Loyal Customers
+CUST-10973,29,8,380.91,United Kingdom,3,1,1,311,Promising
+CUST-10974,18,7,420.44,United Kingdom,3,1,1,311,Promising
+CUST-10975,160,6,380.21,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-10976,1,15,1113.59,Australia,5,5,4,554,Champions
+CUST-10977,20,7,618.42,Germany,3,1,2,312,Promising
+CUST-10978,13,14,728.2,United Kingdom,4,4,3,443,Champions
+CUST-10979,6,13,1079.19,United Kingdom,5,4,4,544,Champions
+CUST-10980,5,9,433.88,United Kingdom,5,2,1,521,Recent Customers
+CUST-10981,25,14,693.62,United Kingdom,3,4,2,342,Loyal Customers
+CUST-10982,15,15,924.18,United Kingdom,4,5,4,454,Champions
+CUST-10983,33,11,375.9,United Kingdom,2,3,1,231,Need Attention
+CUST-10984,29,20,809.43,United Kingdom,3,5,3,353,Loyal Customers
+CUST-10985,18,6,214.94,Spain,3,1,1,311,Promising
+CUST-10986,61,13,1031.08,Spain,1,4,4,144,At Risk
+CUST-10987,41,12,602.73,France,2,3,2,232,Need Attention
+CUST-10988,14,12,985.87,United Kingdom,4,3,4,434,Loyal Customers
+CUST-10989,2,20,3323.39,United Kingdom,5,5,5,555,Champions
+CUST-10990,64,6,516.74,Germany,1,1,2,112,Lost / Hibernating
+CUST-10991,46,10,470.48,United Kingdom,2,2,1,221,About To Sleep
+CUST-10992,8,13,937.88,United Kingdom,5,4,4,544,Champions
+CUST-10993,48,12,1432.44,United Kingdom,2,3,5,235,Need Attention
+CUST-10994,1,9,872.98,United States,5,2,3,523,Recent Customers
+CUST-10995,64,7,923.79,Netherlands,1,1,4,114,Lost / Hibernating
+CUST-10996,18,11,1142.82,United Kingdom,3,3,4,334,Loyal Customers
+CUST-10997,3,12,745.69,Netherlands,5,3,3,533,Loyal Customers
+CUST-10998,13,8,1403.7,Spain,4,1,5,415,Recent Customers
+CUST-10999,10,8,462.73,United Kingdom,4,1,1,411,Recent Customers
+CUST-11000,72,10,890.88,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-11001,25,9,497.46,Germany,3,2,1,321,Promising
+CUST-11002,26,15,1102.9,Germany,3,5,4,354,Loyal Customers
+CUST-11003,33,14,956.58,United Kingdom,2,4,4,244,Need Attention
+CUST-11004,19,10,648.31,United Kingdom,3,2,2,322,Promising
+CUST-11005,10,16,912.12,United Kingdom,4,5,3,453,Champions
+CUST-11006,19,11,1219.5,United Kingdom,3,3,4,334,Loyal Customers
+CUST-11007,8,14,1761.06,United States,5,4,5,545,Champions
+CUST-11008,18,9,443.93,United Kingdom,3,2,1,321,Promising
+CUST-11009,36,9,807.41,Spain,2,2,3,223,About To Sleep
+CUST-11010,9,10,383.46,United Kingdom,4,2,1,421,Recent Customers
+CUST-11011,5,13,1192.17,Spain,5,4,4,544,Champions
+CUST-11012,4,10,497.65,United Kingdom,5,2,1,521,Recent Customers
+CUST-11013,28,10,1145.42,United States,3,2,4,324,Promising
+CUST-11014,59,8,688.22,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-11015,50,1,9.99,Netherlands,1,1,1,111,Lost / Hibernating
+CUST-11016,14,12,894.57,United Kingdom,4,3,3,433,Loyal Customers
+CUST-11017,8,13,893.15,France,5,4,3,543,Champions
+CUST-11018,4,11,450.43,United Kingdom,5,3,1,531,Loyal Customers
+CUST-11019,26,13,1637.17,Australia,3,4,5,345,Loyal Customers
+CUST-11020,28,15,725.18,United Kingdom,3,5,3,353,Loyal Customers
+CUST-11021,23,16,868.64,United Kingdom,3,5,3,353,Loyal Customers
+CUST-11022,10,10,898.93,United Kingdom,4,2,3,423,Recent Customers
+CUST-11023,33,10,398.73,Australia,2,2,1,221,About To Sleep
+CUST-11024,43,10,992.68,United Kingdom,2,2,4,224,About To Sleep
+CUST-11025,16,14,1022.17,Germany,4,4,4,444,Champions
+CUST-11026,5,12,801.39,United Kingdom,5,3,3,533,Loyal Customers
+CUST-11027,29,12,789.7,United Kingdom,3,3,3,333,Loyal Customers
+CUST-11028,8,13,1839.66,United Kingdom,5,4,5,545,Champions
+CUST-11029,31,18,1797.61,Germany,2,5,5,255,Need Attention
+CUST-11030,1,13,411.87,Germany,5,4,1,541,Champions
+CUST-11031,3,17,828.66,Germany,5,5,3,553,Champions
+CUST-11032,35,7,544.04,United Kingdom,2,1,2,212,About To Sleep
+CUST-11033,6,15,880.4,United Kingdom,5,5,3,553,Champions
+CUST-11034,36,9,808.82,United Kingdom,2,2,3,223,About To Sleep
+CUST-11035,13,9,315.22,United Kingdom,4,2,1,421,Recent Customers
+CUST-11036,33,10,1030.91,Netherlands,2,2,4,224,About To Sleep
+CUST-11037,1,14,1412.5,United Kingdom,5,4,5,545,Champions
+CUST-11038,34,14,643.86,France,2,4,2,242,Need Attention
+CUST-11039,13,10,438.46,United Kingdom,4,2,1,421,Recent Customers
+CUST-11040,37,12,917.68,United Kingdom,2,3,3,233,Need Attention
+CUST-11041,54,4,380.75,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11042,90,9,335.95,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-11043,31,7,443.39,United Kingdom,2,1,1,211,About To Sleep
+CUST-11044,28,11,562.21,Germany,3,3,2,332,Loyal Customers
+CUST-11045,30,11,939.13,United States,2,3,4,234,Need Attention
+CUST-11046,1,14,975.12,United Kingdom,5,4,4,544,Champions
+CUST-11047,34,11,530.71,Australia,2,3,2,232,Need Attention
+CUST-11048,30,21,987.4,United Kingdom,2,5,4,254,Need Attention
+CUST-11049,8,10,1073.91,United Kingdom,5,2,4,524,Recent Customers
+CUST-11050,1,11,575.15,United Kingdom,5,3,2,532,Loyal Customers
+CUST-11051,53,9,771.91,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-11052,76,10,317.22,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-11053,105,12,533.83,United Kingdom,1,3,2,132,At Risk
+CUST-11054,89,8,649.71,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-11055,5,12,1117.89,United Kingdom,5,3,4,534,Loyal Customers
+CUST-11056,4,8,507.71,United Kingdom,5,1,1,511,Recent Customers
+CUST-11057,28,10,485.19,United States,3,2,1,321,Promising
+CUST-11058,39,9,317.96,United Kingdom,2,2,1,221,About To Sleep
+CUST-11059,11,20,1280.48,United Kingdom,4,5,5,455,Champions
+CUST-11060,49,12,1193.45,United Kingdom,2,3,4,234,Need Attention
+CUST-11061,11,13,534.97,United Kingdom,4,4,2,442,Champions
+CUST-11062,31,14,485.7,France,2,4,1,241,Need Attention
+CUST-11063,24,8,1166.82,France,3,1,4,314,Promising
+CUST-11064,14,10,956.44,United Kingdom,4,2,4,424,Recent Customers
+CUST-11065,2,17,1881.97,United Kingdom,5,5,5,555,Champions
+CUST-11066,23,13,1369.32,United Kingdom,3,4,5,345,Loyal Customers
+CUST-11067,62,13,728.15,United Kingdom,1,4,3,143,At Risk
+CUST-11068,5,12,1124.96,United States,5,3,4,534,Loyal Customers
+CUST-11069,2,15,642.1,United Kingdom,5,5,2,552,Champions
+CUST-11070,76,10,557.94,United States,1,2,2,122,Lost / Hibernating
+CUST-11071,8,16,1749.05,Spain,5,5,5,555,Champions
+CUST-11072,28,18,953.39,United States,3,5,4,354,Loyal Customers
+CUST-11073,18,10,897.99,Germany,3,2,3,323,Promising
+CUST-11074,2,12,970.29,United Kingdom,5,3,4,534,Loyal Customers
+CUST-11075,43,11,1158.91,United Kingdom,2,3,4,234,Need Attention
+CUST-11076,34,11,859.98,Netherlands,2,3,3,233,Need Attention
+CUST-11077,98,9,482.68,United States,1,2,1,121,Lost / Hibernating
+CUST-11078,2,23,1657.13,United Kingdom,5,5,5,555,Champions
+CUST-11079,103,5,171.92,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11080,67,15,1349.47,United Kingdom,1,5,5,155,At Risk
+CUST-11081,99,9,464.21,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-11082,32,12,734.86,United States,2,3,3,233,Need Attention
+CUST-11083,24,10,1643.6,France,3,2,5,325,Promising
+CUST-11084,18,10,513.95,United Kingdom,3,2,2,322,Promising
+CUST-11085,20,9,573.14,United Kingdom,3,2,2,322,Promising
+CUST-11086,19,6,221.24,United Kingdom,3,1,1,311,Promising
+CUST-11087,47,14,850.67,Germany,2,4,3,243,Need Attention
+CUST-11088,51,14,847.4,United Kingdom,1,4,3,143,At Risk
+CUST-11089,31,14,613.94,Germany,2,4,2,242,Need Attention
+CUST-11090,17,6,429.45,United Kingdom,4,1,1,411,Recent Customers
+CUST-11091,36,8,518.96,Australia,2,1,2,212,About To Sleep
+CUST-11092,3,13,978.14,United Kingdom,5,4,4,544,Champions
+CUST-11093,16,15,583.94,United Kingdom,4,5,2,452,Champions
+CUST-11094,46,14,718.63,United Kingdom,2,4,3,243,Need Attention
+CUST-11095,15,14,1772.04,France,4,4,5,445,Champions
+CUST-11096,21,9,651.95,France,3,2,2,322,Promising
+CUST-11097,39,12,1049.44,United Kingdom,2,3,4,234,Need Attention
+CUST-11098,48,18,1140.62,United Kingdom,2,5,4,254,Need Attention
+CUST-11099,47,14,1257.86,Germany,2,4,5,245,Need Attention
+CUST-11100,64,14,728.67,United Kingdom,1,4,3,143,At Risk
+CUST-11101,55,13,1472.17,Germany,1,4,5,145,At Risk
+CUST-11102,17,4,234.96,United Kingdom,4,1,1,411,Recent Customers
+CUST-11103,12,8,295.46,United Kingdom,4,1,1,411,Recent Customers
+CUST-11104,53,6,390.97,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11105,2,16,855.66,United Kingdom,5,5,3,553,Champions
+CUST-11106,5,19,2095.72,United Kingdom,5,5,5,555,Champions
+CUST-11107,1,11,814.19,United Kingdom,5,3,3,533,Loyal Customers
+CUST-11108,31,9,942.9,United Kingdom,2,2,4,224,About To Sleep
+CUST-11109,13,3,355.0,United Kingdom,4,1,1,411,Recent Customers
+CUST-11110,21,10,344.98,United Kingdom,3,2,1,321,Promising
+CUST-11111,6,16,776.46,United Kingdom,5,5,3,553,Champions
+CUST-11112,2,13,659.36,Germany,5,4,2,542,Champions
+CUST-11113,4,19,1420.67,United Kingdom,5,5,5,555,Champions
+CUST-11114,4,13,774.36,United Kingdom,5,4,3,543,Champions
+CUST-11115,57,9,747.92,United Kingdom,1,2,3,123,Lost / Hibernating
+CUST-11116,27,15,1327.34,France,3,5,5,355,Loyal Customers
+CUST-11117,2,21,1028.82,United Kingdom,5,5,4,554,Champions
+CUST-11118,9,14,2235.97,United Kingdom,4,4,5,445,Champions
+CUST-11119,14,13,599.93,United Kingdom,4,4,2,442,Champions
+CUST-11120,10,14,747.38,United Kingdom,4,4,3,443,Champions
+CUST-11121,17,14,1482.55,United Kingdom,4,4,5,445,Champions
+CUST-11122,7,11,1066.94,United Kingdom,5,3,4,534,Loyal Customers
+CUST-11123,25,10,726.86,United Kingdom,3,2,3,323,Promising
+CUST-11124,19,14,1604.92,Germany,3,4,5,345,Loyal Customers
+CUST-11125,10,18,1276.13,Spain,4,5,5,455,Champions
+CUST-11126,50,7,618.44,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-11127,26,8,628.18,United Kingdom,3,1,2,312,Promising
+CUST-11128,36,15,1331.14,United Kingdom,2,5,5,255,Need Attention
+CUST-11129,133,8,498.57,Spain,1,1,1,111,Lost / Hibernating
+CUST-11130,63,18,1249.24,Germany,1,5,5,155,At Risk
+CUST-11131,21,9,870.14,United Kingdom,3,2,3,323,Promising
+CUST-11132,4,19,1722.41,Germany,5,5,5,555,Champions
+CUST-11133,9,9,296.17,Germany,4,2,1,421,Recent Customers
+CUST-11134,32,11,691.47,United Kingdom,2,3,2,232,Need Attention
+CUST-11135,9,15,815.61,Netherlands,4,5,3,453,Champions
+CUST-11136,46,15,1220.12,Germany,2,5,5,255,Need Attention
+CUST-11137,4,11,1283.58,United Kingdom,5,3,5,535,Loyal Customers
+CUST-11138,12,10,530.99,France,4,2,2,422,Recent Customers
+CUST-11139,5,13,1991.78,United Kingdom,5,4,5,545,Champions
+CUST-11140,190,10,493.97,United Kingdom,1,2,1,121,Lost / Hibernating
+CUST-11141,20,11,681.93,United Kingdom,3,3,2,332,Loyal Customers
+CUST-11142,37,8,748.89,Australia,2,1,3,213,About To Sleep
+CUST-11143,17,12,698.72,United Kingdom,4,3,3,433,Loyal Customers
+CUST-11144,33,10,525.91,United Kingdom,2,2,2,222,About To Sleep
+CUST-11145,86,5,296.46,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11146,1,17,1029.9,United Kingdom,5,5,4,554,Champions
+CUST-11147,93,12,932.93,United Kingdom,1,3,4,134,At Risk
+CUST-11148,6,12,650.97,United Kingdom,5,3,2,532,Loyal Customers
+CUST-11149,3,19,1569.15,Australia,5,5,5,555,Champions
+CUST-11150,117,8,395.24,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11151,2,10,1244.38,United Kingdom,5,2,5,525,Recent Customers
+CUST-11152,46,11,417.93,United Kingdom,2,3,1,231,Need Attention
+CUST-11153,11,11,552.47,Germany,4,3,2,432,Loyal Customers
+CUST-11154,7,13,1028.39,France,5,4,4,544,Champions
+CUST-11155,52,8,432.23,United Kingdom,1,1,1,111,Lost / Hibernating
+CUST-11156,4,17,2108.97,United Kingdom,5,5,5,555,Champions
+CUST-11157,30,12,717.37,United Kingdom,2,3,3,233,Need Attention
+CUST-11158,2,13,925.64,United States,5,4,4,544,Champions
+CUST-11159,6,12,824.39,United Kingdom,5,3,3,533,Loyal Customers
+CUST-11160,171,11,402.69,Australia,1,3,1,131,At Risk
+CUST-11161,9,14,569.49,United States,4,4,2,442,Champions
+CUST-11162,79,7,538.43,United Kingdom,1,1,2,112,Lost / Hibernating
+CUST-11163,114,11,2534.79,United Kingdom,1,3,5,135,At Risk
+CUST-11164,6,17,930.46,Germany,5,5,4,554,Champions
+CUST-11165,37,8,634.96,United Kingdom,2,1,2,212,About To Sleep
+CUST-11166,18,15,1224.16,United Kingdom,3,5,5,355,Loyal Customers
+CUST-11167,23,12,674.72,Spain,3,3,2,332,Loyal Customers
+CUST-11168,4,11,525.2,United Kingdom,5,3,2,532,Loyal Customers
+CUST-11169,14,14,986.41,Spain,4,4,4,444,Champions
+CUST-11170,45,17,1939.62,United States,2,5,5,255,Need Attention
+CUST-11171,3,14,1629.58,United Kingdom,5,4,5,545,Champions
+CUST-11172,22,14,844.4,United Kingdom,3,4,3,343,Loyal Customers
+CUST-11173,25,12,454.66,United Kingdom,3,3,1,331,Loyal Customers
+CUST-11174,32,8,932.73,France,2,1,4,214,About To Sleep
+CUST-11175,4,15,1259.88,United Kingdom,5,5,5,555,Champions
+CUST-11176,21,12,1333.35,United Kingdom,3,3,5,335,Loyal Customers
+CUST-11177,32,18,2564.75,United Kingdom,2,5,5,255,Need Attention
+CUST-11178,1,8,868.96,Germany,5,1,3,513,Recent Customers
+CUST-11179,51,12,648.43,United Kingdom,1,3,2,132,At Risk
+CUST-11180,9,10,308.24,Germany,4,2,1,421,Recent Customers
+CUST-11181,16,14,1534.67,United Kingdom,4,4,5,445,Champions
+CUST-11182,27,7,400.64,United Kingdom,3,1,1,311,Promising
+CUST-11183,24,8,475.71,United Kingdom,3,1,1,311,Promising
+CUST-11184,15,17,888.89,United Kingdom,4,5,3,453,Champions
+CUST-11185,26,9,416.96,Spain,3,2,1,321,Promising
+CUST-11186,24,11,861.49,United Kingdom,3,3,3,333,Loyal Customers
+CUST-11187,3,13,715.48,France,5,4,3,543,Champions
+CUST-11188,46,12,872.22,United Kingdom,2,3,3,233,Need Attention
+CUST-11189,33,11,875.39,Germany,2,3,3,233,Need Attention
+CUST-11190,43,11,587.48,United Kingdom,2,3,2,232,Need Attention
+CUST-11191,6,10,993.65,France,5,2,4,524,Recent Customers
+CUST-11192,34,15,960.14,Netherlands,2,5,4,254,Need Attention
+CUST-11193,5,17,933.95,Australia,5,5,4,554,Champions
+CUST-11194,11,14,858.59,United Kingdom,4,4,3,443,Champions
+CUST-11195,33,8,972.69,United States,2,1,4,214,About To Sleep
+CUST-11196,5,10,414.23,United Kingdom,5,2,1,521,Recent Customers
+CUST-11197,42,14,735.45,France,2,4,3,243,Need Attention
+CUST-11198,8,10,427.17,Germany,5,2,1,521,Recent Customers
+CUST-11199,15,7,199.21,United Kingdom,4,1,1,411,Recent Customers

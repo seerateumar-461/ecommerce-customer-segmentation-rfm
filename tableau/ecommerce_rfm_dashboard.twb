@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <IntuitiveSorting />
+    <IntuitiveSorting:DefaultAutoSort />
+    <MapboxVectorStylesAndLayers />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <datasources>
+    <datasource caption='Online Retail Cleaned' inline='true' name='federated.1' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='online_retail_cleaned.csv' name='textscan.1'>
+            <connection class='textscan' directory='C:/Users/imuma/.gemini/antigravity/scratch/portfolio-projects/ecommerce-customer-segmentation-rfm/data/cleaned' filename='online_retail_cleaned.csv' />
+          </named-connection>
+        </named-connections>
+      </connection>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Executive Overview'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Online Retail Cleaned' name='federated.1' />
+          </datasources>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+    </worksheet>
+  </worksheets>
+  <windows>
+    <window class='worksheet' maximized='true' name='Executive Overview'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+  </windows>
+</workbook>

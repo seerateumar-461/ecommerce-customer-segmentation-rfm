@@ -1,12 +1,12 @@
 # Tableau & Power BI Dashboard Blueprint: E-Commerce RFM Analytics
 
 ## 1. Data Source Connections
-* **Database Connection:** Connect directly to `data/ecommerce.db` or load `data/cleaned/online_retail_cleaned.csv` and `data/cleaned/customer_rfm_summary.csv`.
+* **Database Connection:** Connect directly to `data/ecommerce.db`.
 * **Primary Key:** `CustomerID`
 
 ---
 
-## 2. Key Calculated Fields (Tableau Formulas)
+## 2. Key Calculated Fields
 
 ```tableau
 // 1. Customer Acquisition Cohort (LOD Expression)

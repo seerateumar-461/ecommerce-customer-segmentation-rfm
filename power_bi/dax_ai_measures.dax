@@ -1,0 +1,55 @@
+// =============================================================================
+// Power BI AI & Predictive DAX Measures: E-Commerce RFM & CLV Analytics
+// Author: Umar Farooq
+// =============================================================================
+
+// 1. Core Revenue Measure
+Total Revenue = SUM(online_retail_cleaned[TotalAmount])
+
+// 2. Total Transactions
+Total Orders = DISTINCTCOUNT(online_retail_cleaned[InvoiceNo])
+
+// 3. Average Order Value (AOV)
+AOV = DIVIDE([Total Revenue], [Total Orders], 0)
+
+// 4. Distinct Customer Count
+Active Customers = DISTINCTCOUNT(online_retail_cleaned[CustomerID])
+
+// 5. Customer Lifetime Value (CLV Proxy)
+Customer CLV = 
+CALCULATE(
+    [Total Revenue],
+    ALLEXCEPT(online_retail_cleaned, online_retail_cleaned[CustomerID])
+)
+
+// 6. AI Target Metric: High-Value Customer Tier Flag (for Key Influencers Visual)
+Is High Value Spender = 
+IF([Customer CLV] >= 1500, "High Spender ($1500+)", "Standard Spender")
+
+// 7. Predictive Churn Propensity Score (0 - 100)
+Churn Propensity Score = 
+VAR RecencyVal = SELECTEDVALUE(customer_rfm_summary[Recency_Days], 30)
+VAR FreqVal = SELECTEDVALUE(customer_rfm_summary[Frequency_Orders], 1)
+VAR NormalizedRecency = MIN(1.0, RecencyVal / 180.0)
+VAR FrequencyInversion = MAX(0.0, 1.0 - (FreqVal / 10.0))
+RETURN
+ROUND((NormalizedRecency * 60 + FrequencyInversion * 40), 1)
+
+// 8. Time-Series Anomaly Detection Sensitivity Baseline (Z-Score)
+Monthly Revenue Moving Avg = 
+AVERAGEX(
+    DATESINPERIOD('Calendar'[Date], MAX('Calendar'[Date]), -3, MONTH),
+    [Total Revenue]
+)
+
+Revenue StdDev 3M = 
+STDEVX.P(
+    DATESINPERIOD('Calendar'[Date], MAX('Calendar'[Date]), -3, MONTH),
+    [Total Revenue]
+)
+
+Is Revenue Anomaly = 
+VAR UpperLimit = [Monthly Revenue Moving Avg] + (1.96 * [Revenue StdDev 3M])
+VAR LowerLimit = [Monthly Revenue Moving Avg] - (1.96 * [Revenue StdDev 3M])
+RETURN
+IF([Total Revenue] > UpperLimit || [Total Revenue] < LowerLimit, "Anomaly Detected", "Normal")

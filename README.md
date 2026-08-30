@@ -99,3 +99,21 @@ FROM customer_agg;
 
 ---
 **Author:** Umar Farooq | [LinkedIn Profile](https://linkedin.com)
+
+
+---
+
+## 🤖 Power BI AI-Driven Interactive Dashboard
+
+In addition to Tableau, this project includes a **Power BI AI Dashboard Architecture** utilizing built-in Machine Learning features:
+* **🧠 Key Influencers Visual:** Evaluates drivers using logistic regression to identify key business levers.
+* **🌳 AI Decomposition Tree:** Dynamic root-cause drill-downs with automated high/low-value anomaly splitting.
+* **📈 ML Anomaly Detection:** Time-series sensitivity bands identifying statistical outliers with natural language context.
+* **📝 Smart Narrative:** Real-time AI text generation providing executive summaries on filter selections.
+
+![Power BI AI Dashboard](power_bi/visuals/power_bi_ai_dashboard.png)
+
+### Power BI Resources Included:
+* `power_bi/dax_ai_measures.dax`: Production DAX formulas (AI target flags, Z-score anomalies, predictive metrics).
+* `power_bi/power_query_etl.m`: Automated M ETL pipeline.
+* `power_bi/ai_dashboard_blueprint.md`: Step-by-step visual configuration instructions.
